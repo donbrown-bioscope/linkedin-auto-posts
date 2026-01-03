@@ -1,0 +1,269 @@
+[
+  {
+    "week": 1,
+    "date": "2026-01-04",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "COMT - The Warrior/Worrier Gene",
+    "image_file": "week1_sun_comt.jpg",
+    "content_data": {
+      "gene": "COMT",
+      "full_name": "Catechol-O-Methyltransferase",
+      "category": "Neurotransmitter Metabolism",
+      "hook": "Why some people thrive under pressure while others crumble—then outperform everyone when things calm down.",
+      "function": "Controls dopamine clearance rate in the prefrontal cortex. Fast version clears dopamine 4x faster than slow version.",
+      "genotypes": [
+        {"variant": "Val/Val", "nickname": "The Warrior", "frequency": "25%", "traits": "Fast dopamine clearance. Calm under pressure. Needs stimulation for focus."},
+        {"variant": "Val/Met", "nickname": "The Balanced", "frequency": "50%", "traits": "Intermediate dopamine clearance. Adaptable to various conditions."},
+        {"variant": "Met/Met", "nickname": "The Worrier", "frequency": "25%", "traits": "Slow dopamine clearance. Superior memory and attention. Stress-sensitive but cognitively advantaged in calm settings."}
+      ],
+      "clinical_implications": ["Career fit guidance", "Caffeine tolerance", "Medication selection", "Stress management strategies"],
+      "references": ["Stein et al. 2005 Neuropsychopharmacology", "Mier et al. 2010 Molecular Psychiatry"]
+    }
+  },
+  {
+    "week": 1,
+    "date": "2026-01-06",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "NMN/NR - NAD+ Precursors",
+    "image_file": "week1_tue_nmn.jpg",
+    "content_data": {
+      "intervention": "NMN / NR",
+      "full_name": "Nicotinamide Mononucleotide / Nicotinamide Riboside",
+      "category": "NAD+ Restoration",
+      "hook": "Your NAD+ levels drop 50% by middle age. These precursors can push them back up—restoring cellular energy and repair capacity.",
+      "mechanism": "NMN and NR are converted to NAD+, supporting sirtuins, PARP enzymes for DNA repair, and mitochondrial function.",
+      "evidence": [
+        "2021 Science study: NMN improved insulin sensitivity in prediabetic women",
+        "Trials showing improved arterial function and blood pressure",
+        "Exercise capacity enhancement in multiple studies"
+      ],
+      "dosing": "NMN: 250-1000mg/day; NR: 300-600mg/day",
+      "considerations": ["Quality sourcing critical", "Take in morning", "Synergizes with exercise and fasting"],
+      "references": ["Yoshino et al. 2018 Cell Metabolism", "Yoshino et al. 2021 Science"]
+    }
+  },
+  {
+    "week": 1,
+    "date": "2026-01-08",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Continuous Glucose Monitoring",
+    "image_file": "week1_thu_cgm.jpg",
+    "content_data": {
+      "topic": "Continuous Glucose Monitoring",
+      "category": "Metabolic Health",
+      "hook": "Two people eat identical meals. One's glucose barely moves; the other spikes to 180. Same food, completely different metabolic responses.",
+      "key_points": [
+        "Individual glycemic responses vary 3-fold for identical foods",
+        "Genetics (TCF7L2, MTNR1B), microbiome, sleep, and meal timing all influence response",
+        "Real-time feedback enables personalized nutrition",
+        "Glucose variability matters as much as average levels"
+      ],
+      "why_it_matters": "Every glucose spike triggers glycation, oxidative stress, inflammation, and crashes that drive cravings. Real-time feedback turns nutrition from guesswork into precision.",
+      "key_study": "Weizmann Institute 2015: 800 people, standardized meals—glycemic index predicted almost nothing about personal response",
+      "references": ["Zeevi et al. 2015 Cell", "Berry et al. 2020 Nature Medicine"]
+    }
+  },
+  {
+    "week": 2,
+    "date": "2026-01-11",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "APOE - The Alzheimer's Gene",
+    "image_file": "week2_sun_apoe.jpg",
+    "content_data": {
+      "gene": "APOE",
+      "full_name": "Apolipoprotein E",
+      "category": "Alzheimer's Risk / Longevity",
+      "hook": "The 'high-risk' ε4 is actually the ORIGINAL version. Apes only have ε4. The protective ε3 emerged ~220,000 years ago; ε2 even more recently. Evolution in real-time.",
+      "function": "Affects brain amyloid clearance, cholesterol processing, and neuronal repair.",
+      "genotypes": [
+        {"variant": "ε4 carriers", "nickname": "The Original (Ancestral)", "frequency": "25%", "traits": "3-15x AD risk. But optimized for ancestral environment—infection, parasites, scarce calories."},
+        {"variant": "ε3/ε3", "nickname": "The Transition", "frequency": "60%", "traits": "Population-average risk. Emerged ~220K years ago."},
+        {"variant": "ε2 carriers", "nickname": "The Evolved", "frequency": "12%", "traits": "Lower Alzheimer's risk. 2x more likely to become centenarians. Most recent variant ~80K years ago."}
+      ],
+      "clinical_implications": ["FINGER trial: lifestyle intervention reduced cognitive decline 60% in high-risk individuals", "ε4 carriers benefit MOST from prevention", "Guides aggressiveness of cardiovascular and brain health protocols"],
+      "evolutionary_context": "ε4 likely provided advantages in ancestral environment: better immune response, more efficient fat metabolism, enhanced fertility. Modern longevity turned an asset into a liability.",
+      "references": ["Belloy et al. 2019 Neuron", "Ngandu et al. 2015 Lancet (FINGER trial)"]
+    }
+  },
+  {
+    "week": 2,
+    "date": "2026-01-13",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Therapeutic Plasma Exchange",
+    "image_file": "week2_tue_tpe.jpg",
+    "content_data": {
+      "intervention": "Therapeutic Plasma Exchange",
+      "category": "Blood Filtration / Longevity",
+      "hook": "Old mice got younger when given young blood. But removing old blood factors may matter more than adding young ones.",
+      "mechanism": "TPE removes accumulated pro-aging factors: inflammatory cytokines (IL-6, TNF-α), SASP factors, AGEs, autoantibodies, and toxins.",
+      "evidence": [
+        "UC Berkeley 2020: Simple plasma dilution with saline and albumin produced rejuvenation effects",
+        "AMBAR trial: Cognitive improvement in Alzheimer's patients",
+        "Established procedure used for decades in autoimmune conditions"
+      ],
+      "considerations": ["Requires medical oversight", "Optimal protocols for longevity still being developed", "Not yet mainstream for anti-aging indication"],
+      "references": ["Mehdipour et al. 2020 Aging", "Boada et al. 2020 Alzheimer's & Dementia (AMBAR)"]
+    }
+  },
+  {
+    "week": 2,
+    "date": "2026-01-15",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "ApoB: The Better Cholesterol Metric",
+    "image_file": "week2_thu_apob.jpg",
+    "content_data": {
+      "topic": "ApoB: The Better Cholesterol Metric",
+      "category": "Cardiovascular Risk",
+      "hook": "Your LDL-C could be 'optimal' while your actual cardiovascular risk is through the roof. ApoB tells the real story.",
+      "key_points": [
+        "LDL-C estimates cholesterol cargo; ApoB counts atherogenic particles",
+        "~20% of people have discordance—normal LDL-C but elevated ApoB",
+        "One ApoB = one potentially artery-clogging particle",
+        "European guidelines now recommend ApoB as primary target"
+      ],
+      "why_it_matters": "It's not how much cholesterol—it's how many particles are trying to enter your artery walls.",
+      "references": ["Sniderman et al. 2021 JAMA Cardiology", "Ference et al. 2019 JAMA"]
+    }
+  },
+  {
+    "week": 3,
+    "date": "2026-01-18",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "MTHFR - The Methylation Gene",
+    "image_file": "week3_sun_mthfr.jpg",
+    "content_data": {
+      "gene": "MTHFR",
+      "full_name": "Methylenetetrahydrofolate Reductase",
+      "category": "Methylation / B Vitamins",
+      "hook": "40% of people have a gene variant that impairs one of the body's most fundamental biochemical processes—and most don't know it.",
+      "function": "Converts folate to its active form (5-MTHF), essential for methylation—billions of reactions per second controlling gene expression, neurotransmitter synthesis, and detoxification.",
+      "genotypes": [
+        {"variant": "C/C", "nickname": "Efficient", "frequency": "40%", "traits": "100% enzyme activity. Normal folate metabolism."},
+        {"variant": "C/T", "nickname": "Moderate", "frequency": "45%", "traits": "65% enzyme activity. May benefit from methylfolate."},
+        {"variant": "T/T", "nickname": "Challenged", "frequency": "15%", "traits": "30% enzyme activity. Needs methylated B vitamins. Higher homocysteine risk."}
+      ],
+      "clinical_implications": ["Synthetic folic acid builds up unconverted in T/T individuals", "Solution: bypass with methylfolate (5-MTHF) and methylcobalamin", "Monitor homocysteine levels"],
+      "references": ["Frosst et al. 1995 Nature Genetics", "Liew & Gupta 2015 European Journal of Medical Genetics"]
+    }
+  },
+  {
+    "week": 3,
+    "date": "2026-01-20",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "BPC-157 & Tissue Repair Peptides",
+    "image_file": "week3_tue_bpc157.jpg",
+    "content_data": {
+      "intervention": "BPC-157, TB-500, GHK-Cu",
+      "category": "Peptides - Tissue Repair",
+      "hook": "A 15-amino-acid sequence from gastric juice that accelerates healing of tendons, ligaments, gut lining, and more.",
+      "peptides": [
+        {"name": "BPC-157", "description": "Body Protection Compound. Gastric-derived pentadecapeptide.", "targets": ["Tendons", "Gut", "Ligaments", "Nerves"]},
+        {"name": "TB-500", "description": "Thymosin Beta-4. Promotes cell migration and angiogenesis.", "targets": ["Muscle", "Cardiac", "Wounds"]},
+        {"name": "GHK-Cu", "description": "Copper tripeptide. Collagen synthesis and wound healing.", "targets": ["Skin", "Collagen", "Hair"]}
+      ],
+      "mechanisms": ["Upregulate growth factors (VEGF, EGF, FGF)", "Promote angiogenesis", "Modulate nitric oxide", "Reduce inflammation", "Accelerate cell migration"],
+      "considerations": ["Quality sourcing essential", "Often combined for synergy", "Work with experienced clinicians"],
+      "references": ["Sikiric et al. 2014 Current Pharmaceutical Design", "Philp & Kleinman 2010 Annals of the NY Academy of Sciences"]
+    }
+  },
+  {
+    "week": 3,
+    "date": "2026-01-22",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Coronary Artery Calcium Scoring",
+    "image_file": "week3_thu_cac.jpg",
+    "content_data": {
+      "topic": "Coronary Artery Calcium Scoring",
+      "category": "Cardiovascular Diagnostics",
+      "hook": "A $100 scan that directly shows atherosclerosis in your arteries—not proxies, not predictions, actual disease.",
+      "score_scale": [
+        {"score": "0", "interpretation": "Zero calcium", "risk": "<1% 10-year event risk regardless of other factors"},
+        {"score": "1-99", "interpretation": "Mild plaque", "risk": "Low-moderate"},
+        {"score": "100-399", "interpretation": "Moderate plaque", "risk": "Time for aggressive prevention"},
+        {"score": "400+", "interpretation": "Extensive plaque", "risk": "High risk, intensive intervention"}
+      ],
+      "key_points": [
+        "Reclassifies ~50% of 'intermediate risk' patients",
+        "More predictive than Framingham, advanced lipids, or CRP",
+        "10 minutes, ~$100, minimal radiation",
+        "Score of zero = powerful reassurance"
+      ],
+      "references": ["Detrano et al. 2008 NEJM (MESA)", "Greenland et al. 2018 JACC"]
+    }
+  },
+  {
+    "week": 4,
+    "date": "2026-01-25",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "ACTN3 - The Speed Gene",
+    "image_file": "week4_sun_actn3.jpg",
+    "content_data": {
+      "gene": "ACTN3",
+      "full_name": "Alpha-Actinin-3",
+      "category": "Athletic Performance",
+      "hook": "Researchers tested hundreds of elite sprinters. Almost none have the X/X genotype. Zero Olympic 100m finalists with X/X.",
+      "function": "Encodes alpha-actinin-3, a structural protein found only in fast-twitch muscle fibers.",
+      "genotypes": [
+        {"variant": "R/R", "nickname": "The Sprinter", "frequency": "30%", "traits": "Full alpha-actinin-3. Optimized fast-twitch fibers. Power advantage."},
+        {"variant": "R/X", "nickname": "The Hybrid", "frequency": "50%", "traits": "Intermediate profile. Versatile athletic potential."},
+        {"variant": "X/X", "nickname": "The Marathoner", "frequency": "20%", "traits": "No alpha-actinin-3. Fast-twitch fibers shift toward endurance. Enhanced fatigue resistance."}
+      ],
+      "clinical_implications": ["Guides training emphasis (power vs endurance)", "Affects injury patterns and recovery", "Neither is 'better'—just different advantages"],
+      "references": ["Yang et al. 2003 American Journal of Human Genetics", "Eynon et al. 2013 Sports Medicine"]
+    }
+  },
+  {
+    "week": 4,
+    "date": "2026-01-27",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Rapamycin - The Longevity Drug",
+    "image_file": "week4_tue_rapamycin.jpg",
+    "content_data": {
+      "intervention": "Rapamycin",
+      "category": "mTOR Inhibition / Longevity",
+      "hook": "The only drug that extends lifespan in every species tested—from yeast to mammals. Now being studied in humans.",
+      "mechanism": "Intermittent mTOR inhibition switches cells from 'growth mode' to 'repair mode', activating autophagy and cellular cleanup.",
+      "effects": ["Activates autophagy (cellular recycling)", "Clears senescent cells", "Mimics caloric restriction benefits", "Improves immune function at low doses"],
+      "evidence": ["ITP studies: 9-14% lifespan extension in mice", "Works even when started late in life", "Human trials ongoing (PEARL, others)", "FDA-approved for transplant immunosuppression"],
+      "considerations": ["Requires physician oversight", "Intermittent dosing (weekly, not daily)", "Not yet FDA-approved for longevity"],
+      "references": ["Harrison et al. 2009 Nature", "Mannick et al. 2014 Science Translational Medicine"]
+    }
+  },
+  {
+    "week": 4,
+    "date": "2026-01-29",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Insulin: The Overlooked Biomarker",
+    "image_file": "week4_thu_insulin.jpg",
+    "content_data": {
+      "topic": "Insulin: The Overlooked Biomarker",
+      "category": "Metabolic Health",
+      "hook": "Your fasting glucose can be 'normal' for a decade while insulin climbs—and damage accumulates. Why isn't insulin tested routinely?",
+      "insulin_levels": [
+        {"range": "<5 µIU/mL", "interpretation": "Optimal"},
+        {"range": "5-10 µIU/mL", "interpretation": "Normal (watch trends)"},
+        {"range": "10-15 µIU/mL", "interpretation": "Elevated (insulin resistance likely)"},
+        {"range": ">15 µIU/mL", "interpretation": "High (significant resistance)"}
+      ],
+      "key_points": [
+        "Fasting glucose is a lagging indicator—rises AFTER resistance established",
+        "Fasting insulin is a leading indicator—rises YEARS before glucose problems",
+        "HOMA-IR combines both for better assessment",
+        "Early detection enables reversal before prediabetes diagnosis"
+      ],
+      "references": ["Reaven 1988 Diabetes", "Matthews et al. 1985 Diabetologia (HOMA)"]
+    }
+  }
+]
