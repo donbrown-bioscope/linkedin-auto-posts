@@ -1,0 +1,48 @@
+📊 HEALTH TOPIC OF THE WEEK: MULTI-CANCER EARLY DETECTION
+
+We have standard screening for 5 cancers:
+→ Breast (mammogram)
+→ Colon (colonoscopy)
+→ Cervical (Pap smear)
+→ Lung (CT for high-risk)
+→ Prostate (PSA, controversial)
+
+That leaves ~70% of cancer deaths from cancers we've never had a way to screen for.
+
+Pancreatic. Ovarian. Liver. Stomach. Esophageal.
+
+By the time these cause symptoms, they're often stage IV.
+
+Enter MCED: Multi-Cancer Early Detection
+
+A single blood draw that can detect signals from 50+ cancer types.
+
+How it works:
+
+🩸 Blood draw → 🧬 cfDNA extraction → 🔍 Methylation analysis → 📍 Cancer Signal Origin
+
+Tumors shed cell-free DNA (cfDNA) into the bloodstream. This DNA carries cancer-specific methylation patterns that can identify:
+
+1. IF a cancer signal is present
+2. WHERE in the body to look
+
+The numbers:
+
+✓ 50+ cancer types detected
+✓ 83% detection rate for Stage I-III cancers
+✓ 0.5% false positive rate
+✓ 88% accuracy for tissue of origin
+
+The key value:
+
+For pancreatic cancer, median survival at diagnosis is ~6 months.
+
+MCED can detect it when it's still localized—when survival is 5+ years.
+
+This isn't replacing your colonoscopy or mammogram. It's adding coverage for the cancers we've never been able to find early.
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#HealthTopic #CancerScreening #MCED #EarlyDetection #PrecisionMedicine #Bioscope

@@ -1,0 +1,47 @@
+🧬 GENE OF THE WEEK: SLCO1B1
+
+30 million Americans take statins. 15-20% of them carry a variant that makes muscle pain and weakness far more likely.
+
+SLCO1B1 encodes a transporter that moves statins from blood into the liver, where they work. If this transporter is impaired, statins accumulate in muscle tissue instead—causing myopathy.
+
+Myopathy Risk by Genotype (rs4149056):
+
+T/T → 1x (Normal function)
+T/C → 4.5x increased risk (Intermediate function)
+C/C → 17x increased risk (Poor function)
+
+The C allele is common—about 15-20% of people carry at least one copy.
+
+Why This Matters:
+
+Statin myopathy ranges from:
+→ Mild muscle aches (most common)
+→ Significant weakness
+→ Rhabdomyolysis (rare but dangerous)
+
+Many patients stop statins due to muscle symptoms—even when they desperately need cardiovascular protection.
+
+But the solution isn't "no statin"—it's the RIGHT statin at the RIGHT dose.
+
+Affected Statins (High to Low Risk):
+
+🔴 Simvastatin — Highest myopathy risk
+🟠 Atorvastatin — Moderate risk
+🟡 Rosuvastatin — Lower risk
+🟢 Pravastatin — Lowest risk (doesn't use SLCO1B1)
+
+CPIC Guidelines:
+
+For C/C carriers:
+→ Avoid simvastatin >20mg
+→ Consider pravastatin or rosuvastatin
+→ Start at reduced doses
+→ Monitor CK levels
+
+A $200 pharmacogenomic test could prevent years of "statin intolerance" and keep patients on life-saving therapy.
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#GeneOfTheWeek #SLCO1B1 #Statins #Pharmacogenomics #PrecisionMedicine #Bioscope

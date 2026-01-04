@@ -1,0 +1,45 @@
+🧬 GENE OF THE WEEK: DPYD
+
+A potentially fatal pharmacogenomic interaction. DPYD deficiency can cause severe, life-threatening toxicity from common chemotherapy drugs.
+
+⚠️ CRITICAL WARNING:
+
+3-5% of population has partial DPYD deficiency
+0.1% have complete deficiency
+
+Standard doses of 5-FU or capecitabine can cause DEATH in deficient patients.
+
+European guidelines now REQUIRE DPYD testing before fluoropyrimidine therapy.
+
+DPYD Activity Levels:
+
+Normal Metabolizer:
+✅ Full enzyme activity
+✅ Standard dosing OK
+✅ Normal toxicity risk
+
+Intermediate (3-5%):
+⚠️ 25-50% dose reduction needed
+⚠️ Increased toxicity risk
+⚠️ Severe mucositis, diarrhea possible
+
+Poor Metabolizer (0.1%):
+🚫 AVOID fluoropyrimidines
+🚫 Life-threatening toxicity
+🚫 Neutropenia, sepsis, death risk
+
+Affected Drugs:
+
+💊 5-Fluorouracil (5-FU)
+💊 Capecitabine (Xeloda)
+💊 Tegafur
+
+Used for colorectal, breast, head/neck cancers.
+
+Test BEFORE prescribing. This is actionable pharmacogenomics.
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#GeneOfTheWeek #DPYD #Chemotherapy #Pharmacogenomics #Bioscope

@@ -1,0 +1,39 @@
+📊 HEALTH TOPIC OF THE WEEK: POLYGENIC RISK SCORES
+
+Beyond single genes. Polygenic risk scores combine thousands of genetic variants to predict disease risk—the future of precision prevention.
+
+What Are Polygenic Risk Scores?
+
+Most diseases aren't caused by single genes but thousands of variants with small effects.
+
+PRS aggregates these into one risk score.
+
+High PRS = higher disease risk, earlier onset, more aggressive disease.
+
+Low PRS = some protection even with family history.
+
+Complements traditional risk factors.
+
+Diseases with Validated PRS:
+
+🫀 CAD / Heart Disease
+🍬 Type 2 Diabetes
+🎗️ Breast Cancer
+🎗️ Prostate Cancer
+🧠 Alzheimer's
+💓 Atrial Fibrillation
+⚖️ Obesity
+🧠 Schizophrenia
+
+Services & Utility:
+
+🔬 Providers: 23andMe, Genomics plc, Myriad, Ambry
+🔬 Top 1% PRS for CAD has 3-5x risk vs average
+🔬 Actionable: Earlier screening, aggressive prevention
+🔬 Limitation: Less validated in non-European ancestry
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#HealthTopic #PolygenicRiskScores #GeneticRisk #PrecisionMedicine #Bioscope

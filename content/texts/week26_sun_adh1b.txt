@@ -1,0 +1,40 @@
+🧬 GENE OF THE WEEK: ADH1B
+
+Why do some people flush red after one drink? ADH1B determines how fast you convert alcohol to acetaldehyde—a toxic carcinogen.
+
+The Alcohol Metabolism Pathway:
+
+1️⃣ Alcohol (Ethanol) enters the body
+2️⃣ ADH1B converts it to ACETALDEHYDE (toxic!)
+3️⃣ ALDH2 clears the acetaldehyde
+4️⃣ Safe metabolites excreted
+
+The problem: Acetaldehyde is a Group 1 carcinogen. How long it lingers matters.
+
+Fast ADH1B (*2 allele):
+
+⚡ Common in East Asians (70-90%)
+⚡ Rapidly produces acetaldehyde
+⚡ Causes "Asian flush" (facial redness)
+⚡ Protective against alcoholism (drinking is unpleasant)
+⚡ BUT: Higher cancer risk if you drink anyway
+
+Slow ADH1B (*1 allele):
+
+🐢 Common in Europeans, Africans
+🐢 Slower acetaldehyde production
+🐢 Less immediate discomfort from drinking
+🐢 Higher alcoholism risk
+🐢 Can drink without flushing
+
+The Double-Hit Problem:
+
+Fast ADH1B + Slow ALDH2 = Acetaldehyde accumulates rapidly AND clears slowly. Maximum cancer risk. Common in East Asians. Even moderate drinking significantly increases esophageal and head/neck cancer risk.
+
+Know your genes. Make informed choices.
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#GeneOfTheWeek #ADH1B #AlcoholMetabolism #Pharmacogenomics #Bioscope

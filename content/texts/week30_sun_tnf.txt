@@ -1,0 +1,43 @@
+🧬 GENE OF THE WEEK: TNF
+
+The "alarm" cytokine. TNF triggers inflammation, immune response, and cell death. Too much TNF drives autoimmune disease—TNF blockers are billion-dollar drugs.
+
+TNF-alpha (Tumor Necrosis Factor) is released by immune cells in response to infection, injury, or stress. It:
+
+→ Activates inflammation
+→ Recruits immune cells
+→ Can trigger programmed cell death (apoptosis)
+
+Diseases Driven by Excess TNF:
+
+• Rheumatoid Arthritis
+• Crohn's Disease
+• Psoriasis
+• Ankylosing Spondylitis
+• Ulcerative Colitis
+• Heart Failure
+• Depression
+• Insulin Resistance
+
+Key Genetic Variant:
+
+TNF -308G>A polymorphism:
+→ A allele = higher TNF production
+→ Increased autoimmune disease risk
+→ Important for biologic therapy selection
+
+TNF Inhibitor Drugs:
+
+These are among the most prescribed biologics:
+💊 Humira (adalimumab)
+💊 Remicade (infliximab)
+💊 Enbrel (etanercept)
+💊 Simponi (golimumab)
+
+Pharmacogenomics can help predict which patients will respond best to TNF inhibitors.
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#GeneOfTheWeek #TNF #Inflammation #Autoimmune #Bioscope

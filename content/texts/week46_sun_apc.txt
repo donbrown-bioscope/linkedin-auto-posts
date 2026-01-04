@@ -1,0 +1,40 @@
+🧬 GENE OF THE WEEK: APC
+
+The colon cancer gatekeeper. APC mutations cause hundreds of polyps and near-certain colon cancer without intervention.
+
+What APC Does:
+
+APC is a tumor suppressor that controls cell growth in the colon.
+
+It regulates:
+→ β-catenin
+→ Wnt signaling pathway
+
+Loss of APC function leads to uncontrolled cell proliferation.
+
+Mutated in 80% of sporadic colorectal cancers.
+
+APC-Related Conditions:
+
+⚠️ FAP (Familial Adenomatous Polyposis):
+• 100s-1000s of polyps by teens/20s
+• 100% colon cancer risk by age 40 without surgery
+• Also: desmoid tumors, osteomas, thyroid cancer
+
+⚠️ Attenuated FAP:
+• Fewer polyps, later onset
+• Still high cancer risk
+
+Screening Protocol:
+
+🔬 FAP carriers:
+→ Annual colonoscopy starting age 10-12
+→ Prophylactic colectomy usually in 20s
+→ Screen family members
+→ Genetic counseling essential
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#GeneOfTheWeek #APC #ColonCancer #FAP #Bioscope

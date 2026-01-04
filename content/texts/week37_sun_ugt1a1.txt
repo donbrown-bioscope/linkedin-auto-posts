@@ -1,0 +1,35 @@
+🧬 GENE OF THE WEEK: UGT1A1
+
+The bilirubin conjugation gene. UGT1A1 variants cause Gilbert's syndrome (benign jaundice) and affect metabolism of key chemotherapy and HIV drugs.
+
+UGT1A1 encodes an enzyme that conjugates bilirubin for excretion and metabolizes certain drugs.
+
+UGT1A1*28 Polymorphism:
+
+*1/*1 (Normal):
+✅ Normal enzyme activity
+✅ Standard bilirubin levels
+✅ Normal drug metabolism
+✅ Standard irinotecan dosing
+
+*28/*28 (Gilbert's Syndrome):
+⚠️ ~70% reduced enzyme activity
+⚠️ Elevated bilirubin (usually harmless)
+⚠️ Irinotecan toxicity risk
+⚠️ Dose reduction required
+⚠️ Affects atazanavir levels
+
+Key Drugs Affected:
+
+💊 Irinotecan (chemotherapy)
+💊 Atazanavir (HIV medication)
+💊 Belinostat
+💊 Sacituzumab govitecan
+
+Gilbert's syndrome affects 5-10% of population. Usually benign with intermittent mild jaundice, but becomes clinically important when these drugs are prescribed.
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#GeneOfTheWeek #UGT1A1 #Gilberts #Pharmacogenomics #Bioscope

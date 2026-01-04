@@ -1,0 +1,40 @@
+🧬 GENE OF THE WEEK: CYP2C19
+
+Plavix saves lives after heart attacks—unless you're a poor metabolizer. Then it's no better than placebo.
+
+CYP2C19 is a liver enzyme that activates clopidogrel (Plavix) and metabolizes PPIs, some antidepressants, and antifungals. 30% of people have variants that significantly affect drug response.
+
+The Metabolizer Types:
+
+⚡ Ultra-Rapid Metabolizer (5-30%)
+Drugs cleared too fast. PPIs less effective. May need higher doses.
+
+✓ Normal Metabolizer (35-50%)
+Standard drug response. Plavix works as expected.
+
+⚠️ Intermediate Metabolizer (18-45%)
+Reduced Plavix activation. Consider alternatives or dose adjustment.
+
+🚨 Poor Metabolizer (2-15%)
+Plavix essentially inactive—cannot convert prodrug to active form. Use prasugrel or ticagrelor instead.
+
+Major Drugs Affected:
+
+💊 Clopidogrel (Plavix) — Antiplatelet
+💊 Omeprazole/Esomeprazole — PPIs
+💊 Citalopram/Escitalopram — SSRIs
+💊 Voriconazole — Antifungal
+
+The Clinical Impact:
+
+After a stent, poor metabolizers on Plavix have 3x higher risk of stent thrombosis—a potentially fatal event.
+
+The FDA now recommends CYP2C19 testing before prescribing Plavix. Yet most cardiologists still don't test.
+
+A $200 pharmacogenomic test could be the difference between life and death.
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#GeneOfTheWeek #CYP2C19 #Pharmacogenomics #Plavix #PrecisionMedicine #Bioscope

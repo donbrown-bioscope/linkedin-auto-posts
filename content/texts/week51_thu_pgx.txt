@@ -1,0 +1,34 @@
+📊 HEALTH TOPIC OF THE WEEK: PHARMACOGENOMICS PANEL
+
+The right drug at the right dose. Pharmacogenomics testing predicts how YOU will respond to medications—avoiding adverse reactions and treatment failures.
+
+Key Genes:
+
+🧬 CYP2D6: Codeine, antidepressants, tamoxifen
+🧬 CYP2C19: Plavix, PPIs, antidepressants
+🧬 CYP2C9: Warfarin, NSAIDs, sulfonylureas
+🧬 CYP3A4: Statins, calcium blockers, many drugs
+🧬 SLCO1B1: Statin myopathy risk
+🧬 VKORC1: Warfarin sensitivity
+🧬 HLA-B*5701: Abacavir hypersensitivity
+🧬 DPYD: 5-FU toxicity risk
+
+Why It Matters:
+
+7% of FDA-approved drugs have PGx labeling.
+
+Poor metabolizers may need lower doses.
+Ultra-rapid metabolizers may need higher doses or different drugs.
+
+One test, lifetime guidance.
+
+Testing Options:
+
+🔬 Panels: GeneSight, Genomind, RightMed, OneOme
+🔬 Cost: $200-400 (often covered by insurance)
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#HealthTopic #Pharmacogenomics #PersonalizedMedicine #DrugResponse #Bioscope

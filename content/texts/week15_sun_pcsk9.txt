@@ -1,0 +1,45 @@
+🧬 GENE OF THE WEEK: PCSK9
+
+Some people are born with LDL so low they're nearly immune to heart disease. They have loss-of-function PCSK9 mutations. Now we can mimic this with drugs.
+
+PCSK9 controls how many LDL receptors are on liver cells. More receptors = more LDL cleared from blood = lower LDL levels.
+
+How PCSK9 Controls Your LDL:
+
+1️⃣ LDL receptor grabs LDL from blood
+2️⃣ PCSK9 tags the receptor for destruction
+3️⃣ Fewer receptors = higher LDL
+
+If you block PCSK9, receptors survive longer, and LDL drops dramatically.
+
+The Genetic Variants:
+
+✓ Loss-of-Function (Protective)
+3% of African Americans carry these variants. Their LDL is 30-40% lower lifelong. They have 88% lower heart disease risk. No apparent health downsides.
+
+🚨 Gain-of-Function (Harmful)
+Causes familial hypercholesterolemia. Very high LDL from birth. Heart attacks in 30s-40s without treatment.
+
+PCSK9 Inhibitor Drugs:
+
+💉 Evolocumab (Repatha)
+💉 Alirocumab (Praluent)
+Injectable antibodies that block PCSK9. Lower LDL by 50-60% on top of statins. Given every 2-4 weeks.
+
+💉 Inclisiran
+siRNA that silences PCSK9 gene. Only needs to be given twice per year. Recently approved.
+
+Who Benefits Most:
+
+→ Statin-intolerant patients
+→ Familial hypercholesterolemia
+→ Very high cardiovascular risk despite statins
+→ Recurrent events on max therapy
+
+The lesson: Genetic "experiments of nature" showed us PCSK9 inhibition is safe and profoundly protective. Then we made drugs to mimic it.
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#GeneOfTheWeek #PCSK9 #Cholesterol #CardiovascularHealth #PrecisionMedicine #Bioscope

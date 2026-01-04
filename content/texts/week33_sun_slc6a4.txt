@@ -1,0 +1,36 @@
+🧬 GENE OF THE WEEK: SLC6A4
+
+The "serotonin reuptake" gene. SLC6A4 determines how fast serotonin is cleared from synapses—affecting mood, anxiety, stress resilience, and SSRI response.
+
+SLC6A4 encodes the serotonin transporter (5-HTT), the target of SSRI antidepressants like Prozac and Zoloft.
+
+5-HTTLPR Polymorphism:
+
+Long (L) Allele:
+✅ Higher serotonin transporter expression
+✅ Faster serotonin reuptake
+✅ More stress resilience
+✅ Lower anxiety/depression risk
+✅ Better SSRI response
+
+Short (S) Allele:
+⚠️ Lower transporter expression
+⚠️ Slower serotonin reuptake
+⚠️ Higher stress sensitivity
+⚠️ Increased anxiety/depression risk
+⚠️ Variable SSRI response
+⚠️ More environmental sensitivity ("orchid gene")
+
+Pharmacogenomic Implications:
+
+→ S/S genotype may need different antidepressants or higher SSRI doses
+→ L/L typically responds well to standard SSRI therapy
+→ S carriers may benefit more from SNRIs or other classes
+
+The S allele isn't "bad"—it's associated with increased environmental sensitivity, meaning both more vulnerability to adversity AND more responsiveness to positive environments.
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#GeneOfTheWeek #SLC6A4 #Serotonin #MentalHealth #Pharmacogenomics #Bioscope

@@ -1,0 +1,40 @@
+🧬 GENE OF THE WEEK: TPMT
+
+A life-saving pharmacogenomic test. TPMT variants can cause fatal bone marrow suppression from standard doses of thiopurine drugs.
+
+TPMT Activity Levels:
+
+Normal (89% of population):
+✅ Full enzyme activity
+✅ Standard dosing OK
+✅ Normal drug metabolism
+
+Intermediate (10%):
+⚠️ 50% dose reduction needed
+⚠️ Increased toxicity risk
+⚠️ Requires closer monitoring
+
+Poor Metabolizer (0.3%):
+🚫 90% dose reduction or avoid
+🚫 Severe myelosuppression risk
+🚫 Consider alternative therapy
+
+Affected Drugs:
+
+💊 Azathioprine (Imuran)
+💊 Mercaptopurine (6-MP)
+💊 Thioguanine
+
+Clinical Uses:
+→ Inflammatory bowel disease
+→ Leukemia
+→ Organ transplant
+→ Autoimmune diseases
+
+FDA recommends TPMT testing before prescribing thiopurines. Testing can prevent life-threatening bone marrow toxicity.
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#GeneOfTheWeek #TPMT #Pharmacogenomics #DrugSafety #Bioscope

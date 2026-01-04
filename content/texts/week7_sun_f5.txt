@@ -1,0 +1,49 @@
+🧬 GENE OF THE WEEK: FACTOR V LEIDEN
+
+The most common inherited clotting disorder.
+
+5% of Caucasians carry it. Most have no idea—until their first blood clot.
+
+Factor V Leiden is a mutation in the F5 gene that makes Factor V resistant to inactivation. The result: blood that clots too easily.
+
+The risk breakdown:
+
+✓ No mutation (~95%)
+Baseline clot risk
+
+⚠️ Heterozygous (~5%)
+5-7x increased DVT/PE risk
+
+🚨 Homozygous (~0.02%)
+50-80x increased DVT/PE risk
+
+Why this matters:
+
+Most carriers go their entire lives without a clot. But add a trigger, and everything changes.
+
+Risk amplifiers (these stack):
+
+💊 Oral contraceptives → 35x risk (with FVL)
+✈️ Long flights → Stasis + FVL = danger
+🏥 Surgery → Immobilization triggers clots
+🤰 Pregnancy → Hypercoagulable state
+🚬 Smoking → Vascular damage + FVL
+
+A woman with undiagnosed Factor V Leiden who starts birth control pills has 35x the clot risk of someone without it.
+
+The prevention opportunity:
+
+Knowing your status enables:
+→ Aspirin for travel
+→ Compression stockings for flights
+→ Alternative contraception choices
+→ Extra vigilance during surgery/pregnancy
+→ Lower threshold for anticoagulation if needed
+
+This is exactly what precision medicine is for. A simple genetic test that could prevent a devastating pulmonary embolism.
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#GeneOfTheWeek #FactorVLeiden #Thrombophilia #Genetics #PrecisionMedicine #Bioscope

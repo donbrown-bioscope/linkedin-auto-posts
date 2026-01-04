@@ -1,0 +1,44 @@
+🧬 GENE OF THE WEEK: CYP3A4
+
+The most important drug-metabolizing enzyme. CYP3A4 processes ~50% of all prescription medications. Variants and interactions can make or break drug therapy.
+
+CYP3A4 is expressed mainly in the liver and intestines. It metabolizes an enormous range of drugs.
+
+Drugs Metabolized by CYP3A4:
+
+💊 Statins (atorvastatin, simvastatin)
+💊 Calcium channel blockers
+💊 HIV medications
+💊 Immunosuppressants (cyclosporine, tacrolimus)
+💊 Benzodiazepines (midazolam, alprazolam)
+💊 Opioids (fentanyl, oxycodone)
+💊 Steroids
+💊 Many chemotherapy drugs
+💊 Macrolide antibiotics
+💊 Antifungals
+💊 Hormones (testosterone, estrogen)
+
+Critical Interactions:
+
+⬆️ INHIBITORS (increase drug levels):
+→ Grapefruit juice
+→ Ketoconazole
+→ Ritonavir
+→ Erythromycin
+→ Diltiazem
+
+⬇️ INDUCERS (decrease drug levels):
+→ St. John's Wort
+→ Rifampin
+→ Phenytoin
+→ Carbamazepine
+
+A single glass of grapefruit juice can dramatically increase drug levels for many CYP3A4 substrates.
+
+Understanding CYP3A4 status and interactions is essential for safe prescribing.
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#GeneOfTheWeek #CYP3A4 #Pharmacogenomics #DrugInteractions #Bioscope

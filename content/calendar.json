@@ -1,0 +1,3297 @@
+[
+  {
+    "week": 1,
+    "date": "2026-01-04",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "COMT - The Warrior/Worrier Gene",
+    "image_file": "week1_sun_comt.jpg",
+    "content_data": {
+      "gene": "COMT",
+      "full_name": "Catechol-O-Methyltransferase",
+      "category": "Neurotransmitter Metabolism",
+      "hook": "Why some people thrive under pressure while others crumble\u2014then outperform everyone when things calm down.",
+      "function": "Controls dopamine clearance rate in the prefrontal cortex. Fast version clears dopamine 4x faster than slow version.",
+      "genotypes": [
+        {
+          "variant": "Val/Val",
+          "nickname": "The Warrior",
+          "frequency": "25%",
+          "traits": "Fast dopamine clearance. Calm under pressure. Needs stimulation for focus."
+        },
+        {
+          "variant": "Val/Met",
+          "nickname": "The Balanced",
+          "frequency": "50%",
+          "traits": "Intermediate dopamine clearance. Adaptable to various conditions."
+        },
+        {
+          "variant": "Met/Met",
+          "nickname": "The Worrier",
+          "frequency": "25%",
+          "traits": "Slow dopamine clearance. Superior memory and attention. Stress-sensitive but cognitively advantaged in calm settings."
+        }
+      ],
+      "clinical_implications": [
+        "Career fit guidance",
+        "Caffeine tolerance",
+        "Medication selection",
+        "Stress management strategies"
+      ],
+      "references": [
+        "Stein et al. 2005 Neuropsychopharmacology",
+        "Mier et al. 2010 Molecular Psychiatry"
+      ]
+    }
+  },
+  {
+    "week": 1,
+    "date": "2026-01-06",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "NMN/NR - NAD+ Precursors",
+    "image_file": "week1_tue_nmn.jpg",
+    "content_data": {
+      "intervention": "NMN / NR",
+      "full_name": "Nicotinamide Mononucleotide / Nicotinamide Riboside",
+      "category": "NAD+ Restoration",
+      "hook": "Your NAD+ levels drop 50% by middle age. These precursors can push them back up\u2014restoring cellular energy and repair capacity.",
+      "mechanism": "NMN and NR are converted to NAD+, supporting sirtuins, PARP enzymes for DNA repair, and mitochondrial function.",
+      "evidence": [
+        "2021 Science study: NMN improved insulin sensitivity in prediabetic women",
+        "Trials showing improved arterial function and blood pressure",
+        "Exercise capacity enhancement in multiple studies"
+      ],
+      "dosing": "NMN: 250-1000mg/day; NR: 300-600mg/day",
+      "considerations": [
+        "Quality sourcing critical",
+        "Take in morning",
+        "Synergizes with exercise and fasting"
+      ],
+      "references": [
+        "Yoshino et al. 2018 Cell Metabolism",
+        "Yoshino et al. 2021 Science"
+      ]
+    }
+  },
+  {
+    "week": 1,
+    "date": "2026-01-08",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Continuous Glucose Monitoring",
+    "image_file": "week1_thu_cgm.jpg",
+    "content_data": {
+      "topic": "Continuous Glucose Monitoring",
+      "category": "Metabolic Health",
+      "hook": "Two people eat identical meals. One's glucose barely moves; the other spikes to 180. Same food, completely different metabolic responses.",
+      "key_points": [
+        "Individual glycemic responses vary 3-fold for identical foods",
+        "Genetics (TCF7L2, MTNR1B), microbiome, sleep, and meal timing all influence response",
+        "Real-time feedback enables personalized nutrition",
+        "Glucose variability matters as much as average levels"
+      ],
+      "why_it_matters": "Every glucose spike triggers glycation, oxidative stress, inflammation, and crashes that drive cravings. Real-time feedback turns nutrition from guesswork into precision.",
+      "key_study": "Weizmann Institute 2015: 800 people, standardized meals\u2014glycemic index predicted almost nothing about personal response",
+      "references": [
+        "Zeevi et al. 2015 Cell",
+        "Berry et al. 2020 Nature Medicine"
+      ]
+    }
+  },
+  {
+    "week": 2,
+    "date": "2026-01-11",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "APOE - The Alzheimer's Gene",
+    "image_file": "week2_sun_apoe.jpg",
+    "content_data": {
+      "gene": "APOE",
+      "full_name": "Apolipoprotein E",
+      "category": "Alzheimer's Risk / Longevity",
+      "hook": "The 'high-risk' \u03b54 is actually the ORIGINAL version. Apes only have \u03b54. The protective \u03b53 emerged ~220,000 years ago; \u03b52 even more recently. Evolution in real-time.",
+      "function": "Affects brain amyloid clearance, cholesterol processing, and neuronal repair.",
+      "genotypes": [
+        {
+          "variant": "\u03b54 carriers",
+          "nickname": "The Original (Ancestral)",
+          "frequency": "25%",
+          "traits": "3-15x AD risk. But optimized for ancestral environment\u2014infection, parasites, scarce calories."
+        },
+        {
+          "variant": "\u03b53/\u03b53",
+          "nickname": "The Transition",
+          "frequency": "60%",
+          "traits": "Population-average risk. Emerged ~220K years ago."
+        },
+        {
+          "variant": "\u03b52 carriers",
+          "nickname": "The Evolved",
+          "frequency": "12%",
+          "traits": "Lower Alzheimer's risk. 2x more likely to become centenarians. Most recent variant ~80K years ago."
+        }
+      ],
+      "clinical_implications": [
+        "FINGER trial: lifestyle intervention reduced cognitive decline 60% in high-risk individuals",
+        "\u03b54 carriers benefit MOST from prevention",
+        "Guides aggressiveness of cardiovascular and brain health protocols"
+      ],
+      "evolutionary_context": "\u03b54 likely provided advantages in ancestral environment: better immune response, more efficient fat metabolism, enhanced fertility. Modern longevity turned an asset into a liability.",
+      "references": [
+        "Belloy et al. 2019 Neuron",
+        "Ngandu et al. 2015 Lancet (FINGER trial)"
+      ]
+    }
+  },
+  {
+    "week": 2,
+    "date": "2026-01-13",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Therapeutic Plasma Exchange",
+    "image_file": "week2_tue_tpe.jpg",
+    "content_data": {
+      "intervention": "Therapeutic Plasma Exchange",
+      "category": "Blood Filtration / Longevity",
+      "hook": "Old mice got younger when given young blood. But removing old blood factors may matter more than adding young ones.",
+      "mechanism": "TPE removes accumulated pro-aging factors: inflammatory cytokines (IL-6, TNF-\u03b1), SASP factors, AGEs, autoantibodies, and toxins.",
+      "evidence": [
+        "UC Berkeley 2020: Simple plasma dilution with saline and albumin produced rejuvenation effects",
+        "AMBAR trial: Cognitive improvement in Alzheimer's patients",
+        "Established procedure used for decades in autoimmune conditions"
+      ],
+      "considerations": [
+        "Requires medical oversight",
+        "Optimal protocols for longevity still being developed",
+        "Not yet mainstream for anti-aging indication"
+      ],
+      "references": [
+        "Mehdipour et al. 2020 Aging",
+        "Boada et al. 2020 Alzheimer's & Dementia (AMBAR)"
+      ]
+    }
+  },
+  {
+    "week": 2,
+    "date": "2026-01-15",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "ApoB: The Better Cholesterol Metric",
+    "image_file": "week2_thu_apob.jpg",
+    "content_data": {
+      "topic": "ApoB: The Better Cholesterol Metric",
+      "category": "Cardiovascular Risk",
+      "hook": "Your LDL-C could be 'optimal' while your actual cardiovascular risk is through the roof. ApoB tells the real story.",
+      "key_points": [
+        "LDL-C estimates cholesterol cargo; ApoB counts atherogenic particles",
+        "~20% of people have discordance\u2014normal LDL-C but elevated ApoB",
+        "One ApoB = one potentially artery-clogging particle",
+        "European guidelines now recommend ApoB as primary target"
+      ],
+      "why_it_matters": "It's not how much cholesterol\u2014it's how many particles are trying to enter your artery walls.",
+      "references": [
+        "Sniderman et al. 2021 JAMA Cardiology",
+        "Ference et al. 2019 JAMA"
+      ]
+    }
+  },
+  {
+    "week": 3,
+    "date": "2026-01-18",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "MTHFR - The Methylation Gene",
+    "image_file": "week3_sun_mthfr.jpg",
+    "content_data": {
+      "gene": "MTHFR",
+      "full_name": "Methylenetetrahydrofolate Reductase",
+      "category": "Methylation / B Vitamins",
+      "hook": "40% of people have a gene variant that impairs one of the body's most fundamental biochemical processes\u2014and most don't know it.",
+      "function": "Converts folate to its active form (5-MTHF), essential for methylation\u2014billions of reactions per second controlling gene expression, neurotransmitter synthesis, and detoxification.",
+      "genotypes": [
+        {
+          "variant": "C/C",
+          "nickname": "Efficient",
+          "frequency": "40%",
+          "traits": "100% enzyme activity. Normal folate metabolism."
+        },
+        {
+          "variant": "C/T",
+          "nickname": "Moderate",
+          "frequency": "45%",
+          "traits": "65% enzyme activity. May benefit from methylfolate."
+        },
+        {
+          "variant": "T/T",
+          "nickname": "Challenged",
+          "frequency": "15%",
+          "traits": "30% enzyme activity. Needs methylated B vitamins. Higher homocysteine risk."
+        }
+      ],
+      "clinical_implications": [
+        "Synthetic folic acid builds up unconverted in T/T individuals",
+        "Solution: bypass with methylfolate (5-MTHF) and methylcobalamin",
+        "Monitor homocysteine levels"
+      ],
+      "references": [
+        "Frosst et al. 1995 Nature Genetics",
+        "Liew & Gupta 2015 European Journal of Medical Genetics"
+      ]
+    }
+  },
+  {
+    "week": 3,
+    "date": "2026-01-20",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "BPC-157 & Tissue Repair Peptides",
+    "image_file": "week3_tue_bpc157.jpg",
+    "content_data": {
+      "intervention": "BPC-157, TB-500, GHK-Cu",
+      "category": "Peptides - Tissue Repair",
+      "hook": "A 15-amino-acid sequence from gastric juice that accelerates healing of tendons, ligaments, gut lining, and more.",
+      "peptides": [
+        {
+          "name": "BPC-157",
+          "description": "Body Protection Compound. Gastric-derived pentadecapeptide.",
+          "targets": [
+            "Tendons",
+            "Gut",
+            "Ligaments",
+            "Nerves"
+          ]
+        },
+        {
+          "name": "TB-500",
+          "description": "Thymosin Beta-4. Promotes cell migration and angiogenesis.",
+          "targets": [
+            "Muscle",
+            "Cardiac",
+            "Wounds"
+          ]
+        },
+        {
+          "name": "GHK-Cu",
+          "description": "Copper tripeptide. Collagen synthesis and wound healing.",
+          "targets": [
+            "Skin",
+            "Collagen",
+            "Hair"
+          ]
+        }
+      ],
+      "mechanisms": [
+        "Upregulate growth factors (VEGF, EGF, FGF)",
+        "Promote angiogenesis",
+        "Modulate nitric oxide",
+        "Reduce inflammation",
+        "Accelerate cell migration"
+      ],
+      "considerations": [
+        "Quality sourcing essential",
+        "Often combined for synergy",
+        "Work with experienced clinicians"
+      ],
+      "references": [
+        "Sikiric et al. 2014 Current Pharmaceutical Design",
+        "Philp & Kleinman 2010 Annals of the NY Academy of Sciences"
+      ]
+    }
+  },
+  {
+    "week": 3,
+    "date": "2026-01-22",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Coronary Artery Calcium Scoring",
+    "image_file": "week3_thu_cac.jpg",
+    "content_data": {
+      "topic": "Coronary Artery Calcium Scoring",
+      "category": "Cardiovascular Diagnostics",
+      "hook": "A $100 scan that directly shows atherosclerosis in your arteries\u2014not proxies, not predictions, actual disease.",
+      "score_scale": [
+        {
+          "score": "0",
+          "interpretation": "Zero calcium",
+          "risk": "<1% 10-year event risk regardless of other factors"
+        },
+        {
+          "score": "1-99",
+          "interpretation": "Mild plaque",
+          "risk": "Low-moderate"
+        },
+        {
+          "score": "100-399",
+          "interpretation": "Moderate plaque",
+          "risk": "Time for aggressive prevention"
+        },
+        {
+          "score": "400+",
+          "interpretation": "Extensive plaque",
+          "risk": "High risk, intensive intervention"
+        }
+      ],
+      "key_points": [
+        "Reclassifies ~50% of 'intermediate risk' patients",
+        "More predictive than Framingham, advanced lipids, or CRP",
+        "10 minutes, ~$100, minimal radiation",
+        "Score of zero = powerful reassurance"
+      ],
+      "references": [
+        "Detrano et al. 2008 NEJM (MESA)",
+        "Greenland et al. 2018 JACC"
+      ]
+    }
+  },
+  {
+    "week": 4,
+    "date": "2026-01-25",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "ACTN3 - The Speed Gene",
+    "image_file": "week4_sun_actn3.jpg",
+    "content_data": {
+      "gene": "ACTN3",
+      "full_name": "Alpha-Actinin-3",
+      "category": "Athletic Performance",
+      "hook": "Researchers tested hundreds of elite sprinters. Almost none have the X/X genotype. Zero Olympic 100m finalists with X/X.",
+      "function": "Encodes alpha-actinin-3, a structural protein found only in fast-twitch muscle fibers.",
+      "genotypes": [
+        {
+          "variant": "R/R",
+          "nickname": "The Sprinter",
+          "frequency": "30%",
+          "traits": "Full alpha-actinin-3. Optimized fast-twitch fibers. Power advantage."
+        },
+        {
+          "variant": "R/X",
+          "nickname": "The Hybrid",
+          "frequency": "50%",
+          "traits": "Intermediate profile. Versatile athletic potential."
+        },
+        {
+          "variant": "X/X",
+          "nickname": "The Marathoner",
+          "frequency": "20%",
+          "traits": "No alpha-actinin-3. Fast-twitch fibers shift toward endurance. Enhanced fatigue resistance."
+        }
+      ],
+      "clinical_implications": [
+        "Guides training emphasis (power vs endurance)",
+        "Affects injury patterns and recovery",
+        "Neither is 'better'\u2014just different advantages"
+      ],
+      "references": [
+        "Yang et al. 2003 American Journal of Human Genetics",
+        "Eynon et al. 2013 Sports Medicine"
+      ]
+    }
+  },
+  {
+    "week": 4,
+    "date": "2026-01-27",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Rapamycin - The Longevity Drug",
+    "image_file": "week4_tue_rapamycin.jpg",
+    "content_data": {
+      "intervention": "Rapamycin",
+      "category": "mTOR Inhibition / Longevity",
+      "hook": "The only drug that extends lifespan in every species tested\u2014from yeast to mammals. Now being studied in humans.",
+      "mechanism": "Intermittent mTOR inhibition switches cells from 'growth mode' to 'repair mode', activating autophagy and cellular cleanup.",
+      "effects": [
+        "Activates autophagy (cellular recycling)",
+        "Clears senescent cells",
+        "Mimics caloric restriction benefits",
+        "Improves immune function at low doses"
+      ],
+      "evidence": [
+        "ITP studies: 9-14% lifespan extension in mice",
+        "Works even when started late in life",
+        "Human trials ongoing (PEARL, others)",
+        "FDA-approved for transplant immunosuppression"
+      ],
+      "considerations": [
+        "Requires physician oversight",
+        "Intermittent dosing (weekly, not daily)",
+        "Not yet FDA-approved for longevity"
+      ],
+      "references": [
+        "Harrison et al. 2009 Nature",
+        "Mannick et al. 2014 Science Translational Medicine"
+      ]
+    }
+  },
+  {
+    "week": 4,
+    "date": "2026-01-29",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Insulin: The Overlooked Biomarker",
+    "image_file": "week4_thu_insulin.jpg",
+    "content_data": {
+      "topic": "Insulin: The Overlooked Biomarker",
+      "category": "Metabolic Health",
+      "hook": "Your fasting glucose can be 'normal' for a decade while insulin climbs\u2014and damage accumulates. Why isn't insulin tested routinely?",
+      "insulin_levels": [
+        {
+          "range": "<5 \u00b5IU/mL",
+          "interpretation": "Optimal"
+        },
+        {
+          "range": "5-10 \u00b5IU/mL",
+          "interpretation": "Normal (watch trends)"
+        },
+        {
+          "range": "10-15 \u00b5IU/mL",
+          "interpretation": "Elevated (insulin resistance likely)"
+        },
+        {
+          "range": ">15 \u00b5IU/mL",
+          "interpretation": "High (significant resistance)"
+        }
+      ],
+      "key_points": [
+        "Fasting glucose is a lagging indicator\u2014rises AFTER resistance established",
+        "Fasting insulin is a leading indicator\u2014rises YEARS before glucose problems",
+        "HOMA-IR combines both for better assessment",
+        "Early detection enables reversal before prediabetes diagnosis"
+      ],
+      "references": [
+        "Reaven 1988 Diabetes",
+        "Matthews et al. 1985 Diabetologia (HOMA)"
+      ]
+    }
+  },
+  {
+    "week": 5,
+    "date": "2026-01-11",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "CYP2D6 - The Drug Metabolizer",
+    "image_file": "week5_sun_cyp2d6.jpg",
+    "content_data": {
+      "gene": "CYP2D6",
+      "full_name": "Cytochrome P450 2D6",
+      "category": "Pharmacogenomics",
+      "hook": "This single gene metabolizes 25% of all prescription drugs. Your variant determines if a standard dose is perfect, useless, or dangerous.",
+      "metabolizer_types": [
+        {
+          "type": "Ultra-Rapid",
+          "frequency": "1-10%",
+          "effect": "Burns through drugs too fast. Standard doses may fail."
+        },
+        {
+          "type": "Extensive",
+          "frequency": "~70%",
+          "effect": "Normal metabolism. Standard dosing works."
+        },
+        {
+          "type": "Intermediate",
+          "frequency": "10-15%",
+          "effect": "Slower processing. May need dose reduction."
+        },
+        {
+          "type": "Poor",
+          "frequency": "5-10%",
+          "effect": "Drug accumulates. High toxicity risk."
+        }
+      ],
+      "drugs_affected": [
+        "Codeine",
+        "Tramadol",
+        "Tamoxifen",
+        "SSRIs",
+        "Beta Blockers",
+        "Antipsychotics"
+      ],
+      "references": [
+        "Crews et al. 2014 Clinical Pharmacology & Therapeutics"
+      ]
+    }
+  },
+  {
+    "week": 5,
+    "date": "2026-01-13",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Sleep Peptides - Epitalon & DSIP",
+    "image_file": "week5_tue_sleep_peptides.jpg",
+    "content_data": {
+      "intervention": "Epitalon & DSIP",
+      "category": "Peptides - Sleep & Recovery",
+      "hook": "Your pineal gland shrinks with age. Melatonin production drops. These peptides don't just help sleep\u2014they restore the machinery that makes it.",
+      "peptides": [
+        {
+          "name": "Epitalon",
+          "mechanism": "Pineal gland peptide bioregulator",
+          "benefits": [
+            "Reactivates pineal melatonin production",
+            "Telomerase activation",
+            "Circadian rhythm restoration"
+          ]
+        },
+        {
+          "name": "DSIP",
+          "mechanism": "Delta Sleep-Inducing Peptide",
+          "benefits": [
+            "Enhances slow-wave deep sleep",
+            "Reduces sleep latency",
+            "Stress hormone regulation"
+          ]
+        }
+      ],
+      "references": [
+        "Khavinson et al. 2003 Neuroendocrinology Letters"
+      ]
+    }
+  },
+  {
+    "week": 5,
+    "date": "2026-01-15",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "The Gut-Brain Connection",
+    "image_file": "week5_thu_gutbrain.jpg",
+    "content_data": {
+      "topic": "Microbiome-Brain Axis",
+      "category": "Gut-Brain Health",
+      "hook": "Your gut makes 90% of your serotonin. Depression, anxiety, and brain fog may start in your intestines\u2014not your head.",
+      "key_stats": [
+        "90% of serotonin made in gut",
+        "70% of immune cells in gut",
+        "500 million neurons in enteric system"
+      ],
+      "pathways": [
+        "Vagus Nerve",
+        "Neurotransmitters",
+        "Inflammation",
+        "Immune System"
+      ],
+      "references": [
+        "Cryan & Dinan 2012 Nature Reviews Neuroscience"
+      ]
+    }
+  },
+  {
+    "week": 6,
+    "date": "2026-01-18",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "FOXO3 - The Longevity Gene",
+    "image_file": "week6_sun_foxo3.jpg",
+    "content_data": {
+      "gene": "FOXO3",
+      "full_name": "Forkhead Box O3",
+      "category": "Longevity",
+      "hook": "The only gene consistently linked to longevity across multiple human populations. Centenarians are 2.7x more likely to carry the protective variant.",
+      "genotypes": [
+        {
+          "variant": "G Allele (Protective)",
+          "frequency": "25-30%",
+          "effect": "Enhanced stress resistance, autophagy, and DNA repair"
+        },
+        {
+          "variant": "T Allele (Common)",
+          "frequency": "70-75%",
+          "effect": "Standard FOXO3 activity levels"
+        }
+      ],
+      "functions": [
+        "Autophagy",
+        "Oxidative Defense",
+        "DNA Repair",
+        "Metabolism"
+      ],
+      "references": [
+        "Willcox et al. 2008 PNAS",
+        "Flachsbart et al. 2009 PNAS"
+      ]
+    }
+  },
+  {
+    "week": 6,
+    "date": "2026-01-20",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Exosome Therapy",
+    "image_file": "week6_tue_exosomes.jpg",
+    "content_data": {
+      "intervention": "Exosomes",
+      "category": "Regenerative Medicine",
+      "hook": "Stem cells work largely by what they secrete, not what they become. Exosomes deliver the regenerative signals\u2014without the cells.",
+      "mechanism": "30-150nm vesicles carrying proteins, lipids, and RNA that transfer regenerative instructions between cells",
+      "cargo": [
+        "mRNA",
+        "miRNA",
+        "Proteins",
+        "Growth Factors"
+      ],
+      "applications": [
+        "Joint & Tissue repair",
+        "Skin & Hair rejuvenation",
+        "Neurological support"
+      ],
+      "references": [
+        "Rani et al. 2015 Molecular Therapy"
+      ]
+    }
+  },
+  {
+    "week": 6,
+    "date": "2026-01-22",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Hormesis - Stress That Strengthens",
+    "image_file": "week6_thu_hormesis.jpg",
+    "content_data": {
+      "topic": "Hormesis",
+      "category": "Longevity Science",
+      "hook": "What doesn't kill you literally makes you stronger\u2014if the dose is right. Small stresses trigger adaptive responses that leave you more resilient.",
+      "stressors": [
+        {
+          "type": "Cold",
+          "benefit": "Brown fat, norepinephrine"
+        },
+        {
+          "type": "Heat",
+          "benefit": "HSPs, growth hormone"
+        },
+        {
+          "type": "Fasting",
+          "benefit": "Autophagy, ketones"
+        },
+        {
+          "type": "Exercise",
+          "benefit": "Mitochondria, BDNF"
+        },
+        {
+          "type": "Phytochemicals",
+          "benefit": "Nrf2 activation"
+        }
+      ],
+      "references": [
+        "Calabrese & Baldwin 2002 Human & Experimental Toxicology"
+      ]
+    }
+  },
+  {
+    "week": 7,
+    "date": "2026-01-25",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "Factor V Leiden - The Clotting Gene",
+    "image_file": "week7_sun_f5.jpg",
+    "content_data": {
+      "gene": "F5",
+      "full_name": "Factor V Leiden (R506Q)",
+      "category": "Thrombophilia / Clotting",
+      "hook": "The most common inherited clotting disorder. 5% of Caucasians carry it\u2014most don't know until their first blood clot.",
+      "genotypes": [
+        {
+          "variant": "No Mutation",
+          "frequency": "~95%",
+          "risk": "1x baseline"
+        },
+        {
+          "variant": "Heterozygous",
+          "frequency": "~5%",
+          "risk": "5-7x DVT/PE risk"
+        },
+        {
+          "variant": "Homozygous",
+          "frequency": "~0.02%",
+          "risk": "50-80x DVT/PE risk"
+        }
+      ],
+      "risk_amplifiers": [
+        "Oral Contraceptives (35x with FVL)",
+        "Surgery",
+        "Long Flights",
+        "Pregnancy",
+        "Smoking"
+      ],
+      "references": [
+        "Kujovich 2011 Genetics in Medicine"
+      ]
+    }
+  },
+  {
+    "week": 7,
+    "date": "2026-01-27",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "GH Secretagogue Peptides",
+    "image_file": "week7_tue_gh_peptides.jpg",
+    "content_data": {
+      "intervention": "CJC-1295 & Ipamorelin",
+      "category": "Peptides - Hormone Optimization",
+      "hook": "Growth hormone declines 14% per decade after 30. These peptides don't add synthetic GH\u2014they stimulate your pituitary to make more of your own.",
+      "peptides": [
+        {
+          "name": "CJC-1295",
+          "type": "GHRH analog",
+          "benefits": [
+            "Sustained GH elevation",
+            "Preserves pulsatile release",
+            "Once-weekly dosing possible"
+          ]
+        },
+        {
+          "name": "Ipamorelin",
+          "type": "Ghrelin receptor agonist",
+          "benefits": [
+            "Acute GH pulse",
+            "No cortisol/prolactin increase",
+            "Best safety profile"
+          ]
+        }
+      ],
+      "benefits": [
+        "Lean mass",
+        "Fat loss",
+        "Deep sleep",
+        "Recovery"
+      ],
+      "references": [
+        "Teichman et al. 2006 Journal of Clinical Endocrinology & Metabolism"
+      ]
+    }
+  },
+  {
+    "week": 7,
+    "date": "2026-01-29",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Multi-Cancer Early Detection (MCED)",
+    "image_file": "week7_thu_mced.jpg",
+    "content_data": {
+      "topic": "Multi-Cancer Early Detection",
+      "category": "Cancer Screening",
+      "hook": "Standard screening catches 5 cancer types. MCED blood tests can detect signals from 50+ cancers\u2014including pancreatic, ovarian, and others we've never screened for.",
+      "how_it_works": [
+        "Blood draw",
+        "cfDNA analysis",
+        "Methylation patterns",
+        "Cancer signal origin prediction"
+      ],
+      "key_stats": [
+        "50+ cancer types detected",
+        "83% Stage I-III detection",
+        "0.5% false positive rate"
+      ],
+      "references": [
+        "Klein et al. 2021 Annals of Oncology (PATHFINDER)"
+      ]
+    }
+  },
+  {
+    "week": 8,
+    "date": "2026-02-01",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "BDNF - The Neuroplasticity Gene",
+    "image_file": "week8_sun_bdnf.jpg",
+    "content_data": {
+      "gene": "BDNF",
+      "full_name": "Brain-Derived Neurotrophic Factor",
+      "category": "Neuroplasticity",
+      "hook": "The brain's 'Miracle-Gro'\u2014essential for growing new neurons, forming memories, and learning. The Val66Met variant affects 30% of people.",
+      "genotypes": [
+        {
+          "variant": "Val/Val (G/G)",
+          "frequency": "60-70%",
+          "traits": "Normal BDNF secretion, efficient memory formation"
+        },
+        {
+          "variant": "Val/Met or Met/Met",
+          "frequency": "30-40%",
+          "traits": "Reduced activity-dependent BDNF, benefits MORE from boosting activities"
+        }
+      ],
+      "boosters": [
+        "Aerobic Exercise",
+        "Deep Sleep",
+        "Sunlight",
+        "Intermittent Fasting",
+        "Meditation"
+      ],
+      "references": [
+        "Egan et al. 2003 Cell"
+      ]
+    }
+  },
+  {
+    "week": 8,
+    "date": "2026-02-03",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Anti-Inflammatory Peptides",
+    "image_file": "week8_tue_antiinflam_peptides.jpg",
+    "content_data": {
+      "intervention": "Thymosin Alpha-1 & KPV",
+      "category": "Peptides - Immune Modulation",
+      "hook": "Chronic inflammation drives aging and disease. These peptides modulate the immune response\u2014calming overactivity without suppressing defense.",
+      "peptides": [
+        {
+          "name": "Thymosin Alpha-1",
+          "mechanism": "Thymic peptide",
+          "benefits": [
+            "Rebalances Th1/Th2",
+            "Enhances T-cell function",
+            "FDA-approved in 30+ countries"
+          ]
+        },
+        {
+          "name": "KPV",
+          "mechanism": "Alpha-MSH fragment",
+          "benefits": [
+            "NF-\u03baB inhibition",
+            "Reduces TNF-\u03b1, IL-6",
+            "Gut healing"
+          ]
+        }
+      ],
+      "references": [
+        "Garaci 2007 Annals of the New York Academy of Sciences"
+      ]
+    }
+  },
+  {
+    "week": 8,
+    "date": "2026-02-05",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "DNA Repair Capacity",
+    "image_file": "week8_thu_dna_repair.jpg",
+    "content_data": {
+      "topic": "DNA Repair Capacity",
+      "category": "Cellular Maintenance",
+      "hook": "Your DNA sustains 100,000+ damaging events daily. Aging isn't just accumulated damage\u2014it's declining repair capacity.",
+      "daily_damage": [
+        "100K+ DNA lesions per cell/day",
+        "50 double-strand breaks/day",
+        "10K oxidative modifications"
+      ],
+      "repair_pathways": [
+        "BER (Base Excision)",
+        "NER (Nucleotide Excision)",
+        "HR/NHEJ (Double-Strand)",
+        "MMR (Mismatch)"
+      ],
+      "enhancers": [
+        "NAD+ (PARP activation)",
+        "Sulforaphane (Nrf2)",
+        "Fasting (SIRT1/6)",
+        "Exercise",
+        "Sleep",
+        "Spermidine"
+      ],
+      "references": [
+        "Hoeijmakers 2009 NEJM"
+      ]
+    }
+  },
+  {
+    "week": 9,
+    "date": "2026-02-08",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "ALDH2 - The Asian Flush Gene",
+    "image_file": "week9_sun_aldh2.jpg",
+    "content_data": {
+      "gene": "ALDH2",
+      "full_name": "Aldehyde Dehydrogenase 2",
+      "category": "Alcohol Metabolism",
+      "hook": "The 'Asian Flush' gene. 540 million people carry a variant that turns alcohol into a carcinogen\u2014and most don't know it.",
+      "variants": [
+        {
+          "variant": "ALDH2*1/*1",
+          "effect": "Normal metabolism, efficient acetaldehyde clearance"
+        },
+        {
+          "variant": "ALDH2*2 carriers",
+          "frequency": "40% of East Asians",
+          "effect": "6-10x esophageal cancer risk with alcohol"
+        }
+      ],
+      "references": [
+        "Brooks et al. 2009 PLoS Medicine"
+      ]
+    }
+  },
+  {
+    "week": 9,
+    "date": "2026-02-10",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Hyperbaric Oxygen Therapy",
+    "image_file": "week9_tue_hbot.jpg",
+    "content_data": {
+      "intervention": "HBOT",
+      "category": "Oxygen Therapies",
+      "hook": "At 2-3 atmospheres of pressure, oxygen dissolves directly into plasma\u201415x normal levels. Every cell gets flooded with the fuel of life.",
+      "effects": [
+        "800% stem cell mobilization",
+        "Telomere lengthening",
+        "Senescent cell reduction",
+        "Angiogenesis"
+      ],
+      "references": [
+        "Hadanny et al. 2020 Aging"
+      ]
+    }
+  },
+  {
+    "week": 9,
+    "date": "2026-02-12",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Whole Genome Sequencing",
+    "image_file": "week9_thu_wgs.jpg",
+    "content_data": {
+      "topic": "Whole Genome Sequencing",
+      "category": "Advanced Diagnostics",
+      "hook": "Consumer DNA tests check ~0.1% of your genome. WGS reads all 3 billion base pairs\u2014every gene, every variant, complete.",
+      "comparison": {
+        "snp_arrays": "700K SNPs",
+        "wgs": "3B+ base pairs"
+      },
+      "references": [
+        "Schwarze et al. 2018 Genetics in Medicine"
+      ]
+    }
+  },
+  {
+    "week": 10,
+    "date": "2026-02-15",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "HLA-B*27 - Autoimmune Risk",
+    "image_file": "week10_sun_hlab27.jpg",
+    "content_data": {
+      "gene": "HLA-B*27",
+      "full_name": "Human Leukocyte Antigen B27",
+      "category": "Autoimmune Risk",
+      "hook": "The strongest genetic link to autoimmune disease. If you have chronic back pain before 40, this gene could explain why.",
+      "conditions": [
+        "Ankylosing Spondylitis (90% HLA-B27+)",
+        "Uveitis (50%)",
+        "Reactive Arthritis (60-80%)"
+      ],
+      "references": [
+        "Brown et al. 2016 Nature Reviews Rheumatology"
+      ]
+    }
+  },
+  {
+    "week": 10,
+    "date": "2026-02-17",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Mitochondrial Peptides",
+    "image_file": "week10_tue_mito_peptides.jpg",
+    "content_data": {
+      "intervention": "SS-31 & MOTS-c",
+      "category": "Peptides - Mitochondrial",
+      "hook": "Your mitochondria decline 10% per decade. These peptides target the inner membrane\u2014restoring the powerhouses that power everything.",
+      "peptides": [
+        {
+          "name": "SS-31",
+          "mechanism": "Cardiolipin-targeting",
+          "benefits": [
+            "Optimizes ETC",
+            "Reduces ROS"
+          ]
+        },
+        {
+          "name": "MOTS-c",
+          "mechanism": "Mitochondrial-derived",
+          "benefits": [
+            "Improves insulin sensitivity",
+            "Enhances exercise capacity"
+          ]
+        }
+      ],
+      "references": [
+        "Szeto 2014 British Journal of Pharmacology"
+      ]
+    }
+  },
+  {
+    "week": 10,
+    "date": "2026-02-19",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Advanced Lipid Testing",
+    "image_file": "week10_thu_lipids.jpg",
+    "content_data": {
+      "topic": "Advanced Lipid Testing",
+      "category": "Cardiovascular Diagnostics",
+      "hook": "Your standard cholesterol panel misses half the picture. Advanced testing reveals the particle-level truth about your cardiovascular risk.",
+      "markers": [
+        "ApoB",
+        "Lp(a)",
+        "LDL-P",
+        "Particle size"
+      ],
+      "references": [
+        "Sniderman et al. 2019 Lancet"
+      ]
+    }
+  },
+  {
+    "week": 11,
+    "date": "2026-02-22",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "TCF7L2 - Diabetes Risk Gene",
+    "image_file": "week11_sun_tcf7l2.jpg",
+    "content_data": {
+      "gene": "TCF7L2",
+      "full_name": "Transcription Factor 7-Like 2",
+      "category": "Diabetes Risk",
+      "hook": "The strongest common genetic risk factor for Type 2 diabetes. 30% of people carry the risk variant\u2014and can prevent the disease if they know.",
+      "genotypes": [
+        {
+          "variant": "C/C",
+          "risk": "1x baseline"
+        },
+        {
+          "variant": "C/T",
+          "risk": "1.4x"
+        },
+        {
+          "variant": "T/T",
+          "risk": "2x"
+        }
+      ],
+      "references": [
+        "Grant et al. 2006 Nature Genetics"
+      ]
+    }
+  },
+  {
+    "week": 11,
+    "date": "2026-02-24",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Senolytics (D+Q)",
+    "image_file": "week11_tue_senolytics.jpg",
+    "content_data": {
+      "intervention": "Dasatinib + Quercetin",
+      "category": "Longevity Compounds",
+      "hook": "Zombie cells accumulate with age, secreting inflammatory signals that damage neighbors. Senolytics selectively kill these cells\u2014and rejuvenate tissue.",
+      "protocol": "3 days on, weeks off (intermittent dosing)",
+      "references": [
+        "Kirkland & Tchkonia 2020 EBioMedicine"
+      ]
+    }
+  },
+  {
+    "week": 11,
+    "date": "2026-02-26",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Circadian Rhythm & Metabolism",
+    "image_file": "week11_thu_circadian.jpg",
+    "content_data": {
+      "topic": "Circadian Rhythm",
+      "category": "Chronobiology",
+      "hook": "The same meal eaten at 8am vs 8pm has different metabolic effects. Your body clock controls insulin, cortisol, repair\u2014everything.",
+      "disruption_effects": [
+        "Diabetes",
+        "Obesity",
+        "Heart disease",
+        "Cancer"
+      ],
+      "references": [
+        "Panda 2016 Cell Metabolism"
+      ]
+    }
+  },
+  {
+    "week": 12,
+    "date": "2026-03-01",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "SLCO1B1 - Statin Response Gene",
+    "image_file": "week12_sun_slco1b1.jpg",
+    "content_data": {
+      "gene": "SLCO1B1",
+      "full_name": "Solute Carrier Organic Anion Transporter 1B1",
+      "category": "Pharmacogenomics - Statins",
+      "hook": "30 million Americans take statins. 15-20% of them carry a variant that makes muscle pain and weakness far more likely.",
+      "genotypes": [
+        {
+          "variant": "T/T",
+          "risk": "1x (normal)"
+        },
+        {
+          "variant": "T/C",
+          "risk": "4.5x myopathy"
+        },
+        {
+          "variant": "C/C",
+          "risk": "17x myopathy"
+        }
+      ],
+      "references": [
+        "SEARCH Collaborative Group 2008 NEJM"
+      ]
+    }
+  },
+  {
+    "week": 12,
+    "date": "2026-03-03",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Methylene Blue",
+    "image_file": "week12_tue_methylene_blue.jpg",
+    "content_data": {
+      "intervention": "Methylene Blue",
+      "category": "Mitochondrial Support",
+      "hook": "A 150-year-old dye that acts as an alternative electron carrier\u2014bypassing damaged mitochondrial complexes to restore energy production.",
+      "mechanisms": [
+        "Electron shuttle",
+        "Auto-recycling antioxidant",
+        "Neuroprotection"
+      ],
+      "references": [
+        "Rojas et al. 2012 Neurobiology of Aging"
+      ]
+    }
+  },
+  {
+    "week": 12,
+    "date": "2026-03-05",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Inflammaging",
+    "image_file": "week12_thu_inflammaging.jpg",
+    "content_data": {
+      "topic": "Inflammaging",
+      "category": "Aging Mechanisms",
+      "hook": "Chronic, low-grade inflammation that increases with age. It's not infection\u2014it's your own immune system slowly damaging every organ.",
+      "sources": [
+        "Senescent cells (SASP)",
+        "Leaky gut (LPS)",
+        "Mitochondrial dysfunction",
+        "Visceral fat"
+      ],
+      "markers": [
+        "hs-CRP",
+        "IL-6",
+        "TNF-\u03b1",
+        "Fibrinogen"
+      ],
+      "references": [
+        "Franceschi et al. 2018 Nature Reviews Endocrinology"
+      ]
+    }
+  },
+  {
+    "week": 13,
+    "date": "2026-03-08",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "CYP2C19 - Pharmacogenomics",
+    "image_file": "week13_sun_cyp2c19.jpg",
+    "content_data": {
+      "gene": "CYP2C19",
+      "full_name": "Cytochrome P450 2C19",
+      "category": "Pharmacogenomics",
+      "hook": "Plavix saves lives after heart attacks\u2014unless you're a poor metabolizer. Then it's no better than placebo.",
+      "metabolizer_types": [
+        "Ultra-Rapid",
+        "Normal",
+        "Intermediate",
+        "Poor"
+      ],
+      "drugs_affected": [
+        "Clopidogrel (Plavix)",
+        "PPIs",
+        "SSRIs"
+      ],
+      "references": [
+        "Scott et al. 2013 Clinical Pharmacology & Therapeutics"
+      ]
+    }
+  },
+  {
+    "week": 13,
+    "date": "2026-03-10",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Red Light Therapy (PBM)",
+    "image_file": "week13_tue_rlt.jpg",
+    "content_data": {
+      "intervention": "Photobiomodulation",
+      "category": "Light Therapies",
+      "hook": "Light at specific wavelengths penetrates tissue and directly energizes mitochondria. It's not heat. It's not placebo. It's photochemistry.",
+      "wavelengths": {
+        "red": "630-660nm",
+        "nir": "810-850nm"
+      },
+      "references": [
+        "Hamblin 2016 AIMS Biophysics"
+      ]
+    }
+  },
+  {
+    "week": 13,
+    "date": "2026-03-12",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Telomere Biology",
+    "image_file": "week13_thu_telomeres.jpg",
+    "content_data": {
+      "topic": "Telomere Biology",
+      "category": "Aging / Cellular Age",
+      "hook": "Every time your cells divide, your telomeres shorten. When they get too short, cells stop dividing or die.",
+      "references": [
+        "Blackburn et al. 2015 Science"
+      ]
+    }
+  },
+  {
+    "week": 14,
+    "date": "2026-03-15",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "BRCA1/2 - Cancer Risk",
+    "image_file": "week14_sun_brca.jpg",
+    "content_data": {
+      "gene": "BRCA1/2",
+      "full_name": "Breast Cancer Gene 1 & 2",
+      "category": "Hereditary Cancer Risk",
+      "hook": "The most famous cancer genes. Carriers have up to 85% lifetime breast cancer risk\u2014but knowledge enables life-saving prevention.",
+      "risks": {
+        "breast": "45-85%",
+        "ovarian": "10-46%",
+        "prostate": "20-30%"
+      },
+      "references": [
+        "Kuchenbaecker et al. 2017 JAMA"
+      ]
+    }
+  },
+  {
+    "week": 14,
+    "date": "2026-03-17",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Ozone Therapy",
+    "image_file": "week14_tue_ozone.jpg",
+    "content_data": {
+      "intervention": "Ozone Therapy",
+      "category": "Oxidative Therapies",
+      "hook": "A controlled oxidative stress that triggers massive antioxidant upregulation. The paradox: brief pro-oxidant exposure makes you more anti-oxidant.",
+      "methods": [
+        "MAH",
+        "10-Pass",
+        "Rectal Insufflation",
+        "Ozonated Water"
+      ],
+      "references": [
+        "Bocci 2011 Ozone: A New Medical Drug"
+      ]
+    }
+  },
+  {
+    "week": 14,
+    "date": "2026-03-19",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Epigenetic Clocks",
+    "image_file": "week14_thu_epigenetic_clocks.jpg",
+    "content_data": {
+      "topic": "Epigenetic Clocks",
+      "category": "Biological Age Measurement",
+      "hook": "Your birthday measures time. Epigenetic clocks measure biological wear. Two 50-year-olds can have biological ages 10+ years apart.",
+      "clocks": [
+        "Horvath",
+        "Hannum",
+        "PhenoAge",
+        "GrimAge"
+      ],
+      "references": [
+        "Horvath & Raj 2018 Nature Reviews Genetics"
+      ]
+    }
+  },
+  {
+    "week": 15,
+    "date": "2026-03-22",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "PCSK9 - Cholesterol Regulation",
+    "image_file": "week15_sun_pcsk9.jpg",
+    "content_data": {
+      "gene": "PCSK9",
+      "full_name": "Proprotein Convertase Subtilisin/Kexin Type 9",
+      "category": "Cholesterol Regulation",
+      "hook": "Some people are born with LDL so low they're nearly immune to heart disease. They have loss-of-function PCSK9 mutations.",
+      "drugs": [
+        "Evolocumab",
+        "Alirocumab",
+        "Inclisiran"
+      ],
+      "references": [
+        "Cohen et al. 2006 NEJM"
+      ]
+    }
+  },
+  {
+    "week": 15,
+    "date": "2026-03-24",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Nootropic Peptides (Selank/Semax)",
+    "image_file": "week15_tue_nootropic_peptides.jpg",
+    "content_data": {
+      "intervention": "Selank & Semax",
+      "category": "Peptides - Nootropic",
+      "hook": "Russian neuroscience developed these peptides for cosmonauts and soldiers. Now they're used for anxiety, focus, and neuroprotection.",
+      "peptides": [
+        "Selank (anxiolytic)",
+        "Semax (cognitive enhancement)"
+      ],
+      "references": [
+        "Semenova et al. 2010 CNS Drug Reviews"
+      ]
+    }
+  },
+  {
+    "week": 15,
+    "date": "2026-03-26",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Mitochondrial Health Markers",
+    "image_file": "week15_thu_mito_markers.jpg",
+    "content_data": {
+      "topic": "Mitochondrial Health Markers",
+      "category": "Cellular Energy Assessment",
+      "hook": "Your mitochondria produce 90% of your energy. When they fail, everything fails. But how do you measure something inside your cells?",
+      "markers": [
+        "Lactate/Pyruvate",
+        "CoQ10",
+        "NAD+/NADH",
+        "Organic Acids"
+      ],
+      "references": [
+        "Parikh et al. 2009 Current Treatment Options in Neurology"
+      ]
+    }
+  },
+  {
+    "week": 16,
+    "date": "2026-03-29",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "FTO - Obesity Risk Gene",
+    "image_file": "week16_sun_fto.jpg",
+    "content_data": {
+      "gene": "FTO",
+      "full_name": "Fat Mass and Obesity-Associated Gene",
+      "category": "Obesity Risk / Appetite",
+      "hook": "The first 'obesity gene' discovered. 45% of Europeans carry risk variants. They feel hungrier, crave more fat, and gain weight more easily.",
+      "genotypes": [
+        {
+          "variant": "T/T",
+          "effect": "Baseline"
+        },
+        {
+          "variant": "A/A",
+          "effect": "+3kg, 1.7x obesity risk"
+        }
+      ],
+      "references": [
+        "Frayling et al. 2007 Science"
+      ]
+    }
+  },
+  {
+    "week": 16,
+    "date": "2026-03-31",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Metformin",
+    "image_file": "week16_tue_metformin.jpg",
+    "content_data": {
+      "intervention": "Metformin",
+      "category": "Longevity / Metabolic",
+      "hook": "A 100-year-old diabetes drug that may extend lifespan. Diabetics on metformin outlive non-diabetics not on it.",
+      "mechanisms": [
+        "AMPK activation",
+        "mTOR inhibition",
+        "Anti-inflammatory",
+        "Lower IGF-1"
+      ],
+      "references": [
+        "Bannister et al. 2014 Diabetes Obesity & Metabolism"
+      ]
+    }
+  },
+  {
+    "week": 16,
+    "date": "2026-04-02",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Homocysteine & Methylation",
+    "image_file": "week16_thu_homocysteine.jpg",
+    "content_data": {
+      "topic": "Homocysteine & Methylation",
+      "category": "Cardiovascular / Neurological",
+      "hook": "Homocysteine is a toxic amino acid your body should clear quickly. When methylation is impaired, it accumulates and damages blood vessels and brain.",
+      "levels": {
+        "optimal": "<7",
+        "normal": "7-10",
+        "elevated": "10-15",
+        "high": ">15"
+      },
+      "references": [
+        "Selhub 1999 Annual Review of Nutrition"
+      ]
+    }
+  },
+  {
+    "week": 17,
+    "date": "2026-04-05",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "CLOCK - Circadian Rhythm Gene",
+    "image_file": "week17_sun_clock.jpg",
+    "content_data": {
+      "gene": "CLOCK",
+      "full_name": "Circadian Locomotor Output Cycles Kaput",
+      "category": "Circadian Rhythm",
+      "hook": "The master timekeeper of your biology. CLOCK variants determine if you're a night owl or early bird\u2014and affect metabolism, mood, and disease risk.",
+      "references": [
+        "Marcheva et al. 2010 Nature"
+      ]
+    }
+  },
+  {
+    "week": 17,
+    "date": "2026-04-07",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Berberine",
+    "image_file": "week17_tue_berberine.jpg",
+    "content_data": {
+      "intervention": "Berberine",
+      "category": "Metabolic / AMPK Activation",
+      "hook": "Called 'nature's metformin' for good reason. Head-to-head trials show comparable blood sugar reduction\u2014without a prescription.",
+      "mechanisms": [
+        "AMPK activation",
+        "Gut microbiome",
+        "Gluconeogenesis reduction"
+      ],
+      "references": [
+        "Yin et al. 2008 Metabolism"
+      ]
+    }
+  },
+  {
+    "week": 17,
+    "date": "2026-04-09",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Oxidative Stress & Antioxidant Capacity",
+    "image_file": "week17_thu_oxidative_stress.jpg",
+    "content_data": {
+      "topic": "Oxidative Stress",
+      "category": "Cellular Damage Assessment",
+      "hook": "Free radicals aren't all bad\u2014they're signaling molecules. The problem is imbalance: when production overwhelms your antioxidant defenses.",
+      "markers": [
+        "8-OHdG",
+        "F2-Isoprostanes",
+        "Glutathione ratio",
+        "MDA"
+      ],
+      "references": [
+        "Sies et al. 2017 Annual Review of Biochemistry"
+      ]
+    }
+  },
+  {
+    "week": 18,
+    "date": "2026-04-12",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "VDR - Vitamin D Receptor",
+    "image_file": "week18_sun_vdr.jpg",
+    "content_data": {
+      "gene": "VDR",
+      "full_name": "Vitamin D Receptor",
+      "category": "Vitamin D Response",
+      "hook": "Vitamin D isn't really a vitamin\u2014it's a hormone that regulates over 1,000 genes. VDR variants determine how well you respond to it.",
+      "variants": [
+        "Bsm1",
+        "Taq1",
+        "Fok1",
+        "Apa1"
+      ],
+      "references": [
+        "Uitterlinden et al. 2004 Gene"
+      ]
+    }
+  },
+  {
+    "week": 18,
+    "date": "2026-04-14",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Spermidine",
+    "image_file": "week18_tue_spermidine.jpg",
+    "content_data": {
+      "intervention": "Spermidine",
+      "category": "Autophagy / Longevity",
+      "hook": "A natural polyamine that mimics fasting's benefits. It triggers autophagy\u2014your cells' cleanup and recycling system\u2014without caloric restriction.",
+      "sources": [
+        "Wheat germ",
+        "Aged cheese",
+        "Mushrooms",
+        "Soybeans"
+      ],
+      "references": [
+        "Eisenberg et al. 2016 Nature Medicine"
+      ]
+    }
+  },
+  {
+    "week": 18,
+    "date": "2026-04-16",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Autophagy: Cellular Recycling",
+    "image_file": "week18_thu_autophagy.jpg",
+    "content_data": {
+      "topic": "Autophagy",
+      "category": "Cellular Maintenance",
+      "hook": "Your cells have a built-in recycling system. It breaks down damaged proteins and organelles, turning cellular trash into building blocks.",
+      "activators": [
+        "Fasting",
+        "Exercise",
+        "Spermidine",
+        "Rapamycin"
+      ],
+      "references": [
+        "Ohsumi 2014 Nature (Nobel Prize)"
+      ]
+    }
+  },
+  {
+    "week": 19,
+    "date": "2026-04-19",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "HFE - Hemochromatosis Gene",
+    "image_file": "week19_sun_hfe.jpg",
+    "content_data": {
+      "gene": "HFE",
+      "full_name": "Homeostatic Iron Regulator",
+      "category": "Hemochromatosis",
+      "hook": "The most common genetic disease in Caucasians. 1 in 200 have it. Your body absorbs too much iron, and iron is toxic when it accumulates.",
+      "prevalence": "1 in 200 Caucasians affected",
+      "references": [
+        "Feder et al. 1996 Nature Genetics"
+      ]
+    }
+  },
+  {
+    "week": 19,
+    "date": "2026-04-21",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Resveratrol & Pterostilbene",
+    "image_file": "week19_tue_resveratrol.jpg",
+    "content_data": {
+      "intervention": "Resveratrol & Pterostilbene",
+      "category": "Sirtuin Activation",
+      "hook": "The 'red wine molecule' that activates sirtuins\u2014your longevity genes. Pterostilbene is its more bioavailable cousin.",
+      "mechanisms": [
+        "SIRT1 activation",
+        "AMPK activation",
+        "Anti-inflammatory"
+      ],
+      "references": [
+        "Baur et al. 2006 Nature"
+      ]
+    }
+  },
+  {
+    "week": 19,
+    "date": "2026-04-23",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "The Senescence Burden",
+    "image_file": "week19_thu_senescence.jpg",
+    "content_data": {
+      "topic": "Cellular Senescence",
+      "category": "Aging Mechanisms",
+      "hook": "Senescent cells are 'zombie cells'\u2014alive but dysfunctional. They don't die, they don't divide, and they poison their neighbors.",
+      "sasp_factors": [
+        "IL-6",
+        "IL-8",
+        "MMP-3",
+        "VEGF"
+      ],
+      "references": [
+        "Kirkland & Tchkonia 2017 Journal of Internal Medicine"
+      ]
+    }
+  },
+  {
+    "week": 20,
+    "date": "2026-04-26",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "CETP - Longevity Gene",
+    "image_file": "week20_sun_cetp.jpg",
+    "content_data": {
+      "gene": "CETP",
+      "full_name": "Cholesteryl Ester Transfer Protein",
+      "category": "HDL / Longevity",
+      "hook": "Centenarians are enriched for CETP variants that give them naturally high HDL. This gene may be a key to exceptional longevity.",
+      "references": [
+        "Barzilai et al. 2003 JAMA"
+      ]
+    }
+  },
+  {
+    "week": 20,
+    "date": "2026-04-28",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Curcumin (Optimized Formulations)",
+    "image_file": "week20_tue_curcumin.jpg",
+    "content_data": {
+      "intervention": "Curcumin",
+      "category": "Anti-Inflammatory",
+      "hook": "Turmeric's golden compound has 10,000+ published studies. The challenge: bioavailability. Optimized forms change everything.",
+      "forms": [
+        "Longvida",
+        "Meriva",
+        "Theracurmin",
+        "BCM-95"
+      ],
+      "references": [
+        "Hewlings & Kalman 2017 Foods"
+      ]
+    }
+  },
+  {
+    "week": 20,
+    "date": "2026-04-30",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Thyroid Optimization Beyond TSH",
+    "image_file": "week20_thu_thyroid.jpg",
+    "content_data": {
+      "topic": "Thyroid Optimization",
+      "category": "Hormone Assessment",
+      "hook": "TSH alone misses most thyroid problems. A 'normal' TSH can coexist with profound hypothyroid symptoms. You need the full picture.",
+      "markers": [
+        "TSH",
+        "Free T4",
+        "Free T3",
+        "Reverse T3",
+        "TPO Ab",
+        "TG Ab"
+      ],
+      "references": [
+        "Bianco & Kim 2006 Journal of Clinical Investigation"
+      ]
+    }
+  },
+  {
+    "week": 21,
+    "date": "2026-05-03",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "LPA - Lipoprotein(a)",
+    "image_file": "week21_sun_lpa.jpg",
+    "content_data": {
+      "gene": "LPA",
+      "full_name": "Lipoprotein(a)",
+      "category": "Cardiovascular Risk",
+      "hook": "The 'stealth' cardiovascular risk factor. 20% of people have elevated Lp(a)\u2014and most don't know it.",
+      "references": [
+        "Tsimikas et al. 2020 JACC"
+      ]
+    }
+  },
+  {
+    "week": 21,
+    "date": "2026-05-05",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "High-Dose Omega-3",
+    "image_file": "week21_tue_omega3.jpg",
+    "content_data": {
+      "intervention": "High-Dose Omega-3",
+      "category": "Cardiovascular / Brain",
+      "hook": "Most people are deficient. The average American Omega-3 Index is 4-5%. Optimal is 8-12%.",
+      "references": [
+        "Harris et al. 2018 Journal of Clinical Lipidology"
+      ]
+    }
+  },
+  {
+    "week": 21,
+    "date": "2026-05-07",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Adrenal Health & HPA Axis",
+    "image_file": "week21_thu_hpa.jpg",
+    "content_data": {
+      "topic": "HPA Axis Dysregulation",
+      "category": "Stress / Hormones",
+      "hook": "'Adrenal fatigue' isn't quite right\u2014but HPA axis dysregulation is real. Chronic stress rewires your stress response.",
+      "references": [
+        "Chrousos 2009 Nature Reviews Endocrinology"
+      ]
+    }
+  },
+  {
+    "week": 22,
+    "date": "2026-05-10",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "SOD2 - Oxidative Stress Defense",
+    "image_file": "week22_sun_sod2.jpg",
+    "content_data": {
+      "gene": "SOD2",
+      "full_name": "Superoxide Dismutase 2",
+      "category": "Oxidative Stress Defense",
+      "hook": "Your mitochondria's first line of defense against oxidative damage. Variants affect your antioxidant capacity.",
+      "references": [
+        "Sutton et al. 2003 Biochemical Journal"
+      ]
+    }
+  },
+  {
+    "week": 22,
+    "date": "2026-05-12",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Magnesium Optimization",
+    "image_file": "week22_tue_magnesium.jpg",
+    "content_data": {
+      "intervention": "Magnesium Optimization",
+      "category": "Mineral Optimization",
+      "hook": "Involved in 300+ enzymatic reactions. 50% of Americans are deficient. Serum magnesium is a poor marker.",
+      "forms": [
+        "Glycinate",
+        "Threonate",
+        "Taurate",
+        "Malate"
+      ],
+      "references": [
+        "Rosanoff et al. 2012 Nutrition Reviews"
+      ]
+    }
+  },
+  {
+    "week": 22,
+    "date": "2026-05-14",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Sex Hormone Optimization",
+    "image_file": "week22_thu_sex_hormones.jpg",
+    "content_data": {
+      "topic": "Sex Hormone Optimization",
+      "category": "Hormone Health",
+      "hook": "Total testosterone tells half the story. Free testosterone, metabolites, and ratios determine how hormones work.",
+      "references": [
+        "Morgentaler et al. 2016 Mayo Clinic Proceedings"
+      ]
+    }
+  },
+  {
+    "week": 23,
+    "date": "2026-05-17",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "NQO1 - Detoxification",
+    "image_file": "week23_sun_nqo1.jpg",
+    "content_data": {
+      "gene": "NQO1",
+      "full_name": "NAD(P)H Quinone Dehydrogenase 1",
+      "category": "Detoxification",
+      "hook": "A master detox enzyme. NQO1 recycles CoQ10 and determines how well you respond to certain supplements.",
+      "references": [
+        "Ross et al. 2000 Free Radical Biology and Medicine"
+      ]
+    }
+  },
+  {
+    "week": 23,
+    "date": "2026-05-19",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Vitamin D Optimization",
+    "image_file": "week23_tue_vitamind.jpg",
+    "content_data": {
+      "intervention": "Vitamin D Optimization",
+      "category": "Hormone / Immune",
+      "hook": "Not actually a vitamin\u2014it's a steroid hormone. 42% of Americans are deficient. Optimal requires more than the RDA.",
+      "cofactors": [
+        "K2",
+        "Magnesium",
+        "Zinc",
+        "Boron"
+      ],
+      "references": [
+        "Holick 2007 New England Journal of Medicine"
+      ]
+    }
+  },
+  {
+    "week": 23,
+    "date": "2026-05-21",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Growth Hormone & IGF-1 Balance",
+    "image_file": "week23_thu_gh_igf1.jpg",
+    "content_data": {
+      "topic": "GH & IGF-1 Balance",
+      "category": "Hormone / Longevity",
+      "hook": "The longevity paradox: GH/IGF-1 builds muscle but lower levels are associated with longer lifespan. Balance is key.",
+      "references": [
+        "Bartke 2008 Endocrinology"
+      ]
+    }
+  },
+  {
+    "week": 24,
+    "date": "2026-05-24",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "GSTM1/GSTT1 - Detoxification",
+    "image_file": "week24_sun_gst.jpg",
+    "content_data": {
+      "gene": "GSTM1/GSTT1",
+      "full_name": "Glutathione S-Transferases",
+      "category": "Detoxification",
+      "hook": "Critical Phase II detox enzymes. 50% of people have GSTM1 deletion. These are complete gene deletions\u2014no enzyme.",
+      "references": [
+        "Hayes et al. 2005 Annual Review of Pharmacology and Toxicology"
+      ]
+    }
+  },
+  {
+    "week": 24,
+    "date": "2026-05-26",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Creatine",
+    "image_file": "week24_tue_creatine.jpg",
+    "content_data": {
+      "intervention": "Creatine",
+      "category": "Brain / Muscle Performance",
+      "hook": "The most studied sports supplement ever. But it's not just for athletes\u2014creatine has profound brain and aging effects.",
+      "references": [
+        "Kreider et al. 2017 Journal of ISSN"
+      ]
+    }
+  },
+  {
+    "week": 24,
+    "date": "2026-05-28",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Neurotransmitter Testing",
+    "image_file": "week24_thu_neurotransmitters.jpg",
+    "content_data": {
+      "topic": "Neurotransmitter Testing",
+      "category": "Brain Chemistry",
+      "hook": "Mood, focus, sleep, motivation\u2014all driven by brain chemistry. Testing can reveal imbalances explaining your symptoms.",
+      "neurotransmitters": [
+        "Serotonin",
+        "Dopamine",
+        "Norepinephrine",
+        "GABA",
+        "Glutamate"
+      ],
+      "references": [
+        "Marc et al. 2011 Integrative Medicine"
+      ]
+    }
+  },
+  {
+    "week": 25,
+    "date": "2026-05-31",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "CYP1A2 - Caffeine Metabolism",
+    "image_file": "week25_sun_cyp1a2.jpg",
+    "content_data": {
+      "gene": "CYP1A2",
+      "full_name": "Cytochrome P450 1A2",
+      "category": "Caffeine Metabolism",
+      "hook": "Are you a fast or slow caffeine metabolizer? CYP1A2 determines if coffee is heart-protective or heart-risky for YOU.",
+      "references": [
+        "Cornelis et al. 2006 JAMA"
+      ]
+    }
+  },
+  {
+    "week": 25,
+    "date": "2026-06-02",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Alpha-Lipoic Acid",
+    "image_file": "week25_tue_ala.jpg",
+    "content_data": {
+      "intervention": "Alpha-Lipoic Acid",
+      "category": "Antioxidant / Neuroprotection",
+      "hook": "The universal antioxidant\u2014works in both water AND fat. Regenerates vitamins C, E, and glutathione.",
+      "references": [
+        "Shay et al. 2009 Biochimica et Biophysica Acta"
+      ]
+    }
+  },
+  {
+    "week": 25,
+    "date": "2026-06-04",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Organic Acids Testing (OAT)",
+    "image_file": "week25_thu_oat.jpg",
+    "content_data": {
+      "topic": "Organic Acids Testing",
+      "category": "Metabolic Assessment",
+      "hook": "A single urine test revealing cellular metabolism, gut health, neurotransmitters, and nutrient status.",
+      "references": [
+        "Lord & Bralley 2008 Laboratory Evaluations"
+      ]
+    }
+  },
+  {
+    "week": 26,
+    "date": "2026-06-07",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "ADH1B - Alcohol Metabolism",
+    "image_file": "week26_sun_adh1b.jpg",
+    "content_data": {
+      "gene": "ADH1B",
+      "full_name": "Alcohol Dehydrogenase 1B",
+      "category": "Alcohol Metabolism",
+      "hook": "Why do some people flush red after one drink? ADH1B determines how fast you convert alcohol to toxic acetaldehyde.",
+      "references": [
+        "Li et al. 2011 PLoS Medicine"
+      ]
+    }
+  },
+  {
+    "week": 26,
+    "date": "2026-06-09",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "CoQ10 / Ubiquinol",
+    "image_file": "week26_tue_coq10.jpg",
+    "content_data": {
+      "intervention": "CoQ10 / Ubiquinol",
+      "category": "Mitochondrial Support",
+      "hook": "Essential for every cell's energy production. Levels drop 50% by age 50. Statins deplete CoQ10.",
+      "references": [
+        "Littarru & Tiano 2010 Molecular Biotechnology"
+      ]
+    }
+  },
+  {
+    "week": 26,
+    "date": "2026-06-11",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Heavy Metal Testing",
+    "image_file": "week26_thu_heavy_metals.jpg",
+    "content_data": {
+      "topic": "Heavy Metal Testing",
+      "category": "Toxicology",
+      "hook": "Chronic low-level exposure accumulates over decades. Mercury, lead, arsenic, cadmium disrupt hormones.",
+      "references": [
+        "Sears 2013 Scientific World Journal"
+      ]
+    }
+  },
+  {
+    "week": 27,
+    "date": "2026-06-14",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "MC4R - Appetite/Obesity",
+    "image_file": "week27_sun_mc4r.jpg",
+    "content_data": {
+      "gene": "MC4R",
+      "full_name": "Melanocortin 4 Receptor",
+      "category": "Appetite / Obesity",
+      "hook": "The most common cause of monogenic obesity. MC4R variants affect hunger signaling\u2014some people never feel full.",
+      "references": [
+        "Farooqi et al. 2003 NEJM"
+      ]
+    }
+  },
+  {
+    "week": 27,
+    "date": "2026-06-16",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "PQQ",
+    "image_file": "week27_tue_pqq.jpg",
+    "content_data": {
+      "intervention": "PQQ (Pyrroloquinoline Quinone)",
+      "category": "Mitochondrial Biogenesis",
+      "hook": "The only compound proven to create new mitochondria. PQQ activates PGC-1alpha.",
+      "references": [
+        "Chowanadisai et al. 2010 Journal of Biological Chemistry"
+      ]
+    }
+  },
+  {
+    "week": 27,
+    "date": "2026-06-18",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Mycotoxin Exposure",
+    "image_file": "week27_thu_mycotoxins.jpg",
+    "content_data": {
+      "topic": "Mycotoxin Exposure",
+      "category": "Environmental Health",
+      "hook": "Mold toxins from water-damaged buildings and contaminated food. 25% of buildings have water damage.",
+      "references": [
+        "Shoemaker 2010 Mold Warriors"
+      ]
+    }
+  },
+  {
+    "week": 28,
+    "date": "2026-06-21",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "PPARG - Metabolic Health",
+    "image_file": "week28_sun_pparg.jpg",
+    "content_data": {
+      "gene": "PPARG",
+      "full_name": "Peroxisome Proliferator-Activated Receptor Gamma",
+      "category": "Metabolic Health",
+      "hook": "Master regulator of fat cells and insulin sensitivity. Variants affect diabetes risk and drug response.",
+      "references": [
+        "Deeb et al. 1998 Nature Genetics"
+      ]
+    }
+  },
+  {
+    "week": 28,
+    "date": "2026-06-23",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Sulforaphane",
+    "image_file": "week28_tue_sulforaphane.jpg",
+    "content_data": {
+      "intervention": "Sulforaphane",
+      "category": "Nrf2 Activation / Detox",
+      "hook": "The most potent natural Nrf2 activator known. Upregulates 200+ protective genes.",
+      "references": [
+        "Fahey et al. 2017 Antioxidants & Redox Signaling"
+      ]
+    }
+  },
+  {
+    "week": 28,
+    "date": "2026-06-25",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Gut Permeability (Leaky Gut)",
+    "image_file": "week28_thu_leaky_gut.jpg",
+    "content_data": {
+      "topic": "Gut Permeability",
+      "category": "Gut Health",
+      "hook": "When tight junctions fail, undigested food and bacteria leak into the bloodstream.",
+      "references": [
+        "Fasano 2012 Clinical Reviews in Allergy & Immunology"
+      ]
+    }
+  },
+  {
+    "week": 29,
+    "date": "2026-06-28",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "IL6 - Inflammation",
+    "image_file": "week29_sun_il6.jpg",
+    "content_data": {
+      "gene": "IL6",
+      "full_name": "Interleukin 6",
+      "category": "Inflammation",
+      "hook": "The dual-personality cytokine. IL6 can be pro-inflammatory OR anti-inflammatory.",
+      "references": [
+        "Tanaka et al. 2014"
+      ]
+    }
+  },
+  {
+    "week": 29,
+    "date": "2026-06-30",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Fisetin",
+    "image_file": "week29_tue_fisetin.jpg",
+    "content_data": {
+      "intervention": "Fisetin",
+      "category": "Senolytic / Antioxidant",
+      "hook": "The most potent natural senolytic discovered.",
+      "references": [
+        "Yousefzadeh et al. 2018"
+      ]
+    }
+  },
+  {
+    "week": 29,
+    "date": "2026-07-02",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "SIBO & Gut Dysbiosis",
+    "image_file": "week29_thu_sibo.jpg",
+    "content_data": {
+      "topic": "SIBO & Gut Dysbiosis",
+      "category": "Gut Health",
+      "hook": "Bacteria in the wrong place. Up to 80% of IBS patients have SIBO.",
+      "references": [
+        "Pimentel et al. 2020"
+      ]
+    }
+  },
+  {
+    "week": 30,
+    "date": "2026-07-05",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "TNF - Inflammation",
+    "image_file": "week30_sun_tnf.jpg",
+    "content_data": {
+      "gene": "TNF",
+      "full_name": "Tumor Necrosis Factor",
+      "category": "Inflammation",
+      "hook": "The alarm cytokine. TNF blockers are billion-dollar drugs.",
+      "references": [
+        "Kalliolias & Ivashkiv 2016"
+      ]
+    }
+  },
+  {
+    "week": 30,
+    "date": "2026-07-07",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Apigenin",
+    "image_file": "week30_tue_apigenin.jpg",
+    "content_data": {
+      "intervention": "Apigenin",
+      "category": "Sleep / CD38 Inhibition",
+      "hook": "The chamomile flavonoid. Inhibits CD38, preserving NAD+.",
+      "references": [
+        "Escande et al. 2013"
+      ]
+    }
+  },
+  {
+    "week": 30,
+    "date": "2026-07-09",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Food Sensitivity vs Allergy",
+    "image_file": "week30_thu_food_sensitivity.jpg",
+    "content_data": {
+      "topic": "Food Sensitivity vs Allergy",
+      "category": "Immune / Gut",
+      "hook": "Not the same thing. Allergies are IgE, sensitivities are IgG.",
+      "references": [
+        "Turnbull et al. 2015"
+      ]
+    }
+  },
+  {
+    "week": 31,
+    "date": "2026-07-12",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "ACE - Blood Pressure/Endurance",
+    "image_file": "week31_sun_ace.jpg",
+    "content_data": {
+      "gene": "ACE",
+      "full_name": "Angiotensin-Converting Enzyme",
+      "category": "Blood Pressure / Endurance",
+      "hook": "I/D polymorphism predicts endurance vs power performance.",
+      "references": [
+        "Jones et al. 2002"
+      ]
+    }
+  },
+  {
+    "week": 31,
+    "date": "2026-07-14",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Astaxanthin",
+    "image_file": "week31_tue_astaxanthin.jpg",
+    "content_data": {
+      "intervention": "Astaxanthin",
+      "category": "Antioxidant / Skin",
+      "hook": "The king of carotenoids. 6,000x more potent than vitamin C.",
+      "references": [
+        "Ambati et al. 2014"
+      ]
+    }
+  },
+  {
+    "week": 31,
+    "date": "2026-07-16",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Histamine Intolerance",
+    "image_file": "week31_thu_histamine.jpg",
+    "content_data": {
+      "topic": "Histamine Intolerance",
+      "category": "Immune Dysfunction",
+      "hook": "DAO enzyme deficiency causes histamine accumulation.",
+      "references": [
+        "Maintz & Novak 2007"
+      ]
+    }
+  },
+  {
+    "week": 32,
+    "date": "2026-07-19",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "ADRB2 - Asthma/Athletic",
+    "image_file": "week32_sun_adrb2.jpg",
+    "content_data": {
+      "gene": "ADRB2",
+      "full_name": "Beta-2 Adrenergic Receptor",
+      "category": "Asthma / Athletic Performance",
+      "hook": "Your bronchodilator response gene.",
+      "references": [
+        "Litonjua et al. 2008"
+      ]
+    }
+  },
+  {
+    "week": 32,
+    "date": "2026-07-21",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Urolithin A",
+    "image_file": "week32_tue_urolithina.jpg",
+    "content_data": {
+      "intervention": "Urolithin A",
+      "category": "Mitophagy / Muscle",
+      "hook": "The mitophagy activator. Recycles damaged mitochondria.",
+      "references": [
+        "Ryu et al. 2016"
+      ]
+    }
+  },
+  {
+    "week": 32,
+    "date": "2026-07-23",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Mast Cell Activation Syndrome",
+    "image_file": "week32_thu_mcas.jpg",
+    "content_data": {
+      "topic": "Mast Cell Activation Syndrome",
+      "category": "Immune Dysfunction",
+      "hook": "When mast cells overreact to everything.",
+      "references": [
+        "Afrin et al. 2016"
+      ]
+    }
+  },
+  {
+    "week": 33,
+    "date": "2026-07-26",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "SLC6A4 - Mental Health",
+    "image_file": "week33_sun_slc6a4.jpg",
+    "content_data": {
+      "gene": "SLC6A4",
+      "full_name": "Serotonin Transporter",
+      "category": "Mental Health",
+      "hook": "The serotonin reuptake gene.",
+      "references": [
+        "Caspi et al. 2003"
+      ]
+    }
+  },
+  {
+    "week": 33,
+    "date": "2026-07-28",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Glycine / Collagen",
+    "image_file": "week33_tue_glycine.jpg",
+    "content_data": {
+      "intervention": "Glycine / Collagen",
+      "category": "Longevity",
+      "hook": "The simplest amino acid with profound effects.",
+      "references": [
+        "Miller et al. 2019"
+      ]
+    }
+  },
+  {
+    "week": 33,
+    "date": "2026-07-30",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Autoimmune Triggers",
+    "image_file": "week33_thu_autoimmune.jpg",
+    "content_data": {
+      "topic": "Autoimmune Triggers",
+      "category": "Immune Health",
+      "hook": "Three requirements for autoimmunity.",
+      "references": [
+        "Fasano 2012"
+      ]
+    }
+  },
+  {
+    "week": 34,
+    "date": "2026-08-02",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "DRD2 - Addiction/Reward",
+    "image_file": "week34_sun_drd2.jpg",
+    "content_data": {
+      "gene": "DRD2",
+      "full_name": "Dopamine Receptor D2",
+      "category": "Addiction / Reward",
+      "hook": "The reward pathway gene.",
+      "references": [
+        "Blum et al. 1990"
+      ]
+    }
+  },
+  {
+    "week": 34,
+    "date": "2026-08-04",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Taurine",
+    "image_file": "week34_tue_taurine.jpg",
+    "content_data": {
+      "intervention": "Taurine",
+      "category": "Longevity / Cardiovascular",
+      "hook": "2023 longevity breakthrough.",
+      "references": [
+        "Singh et al. 2023"
+      ]
+    }
+  },
+  {
+    "week": 34,
+    "date": "2026-08-06",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Lyme & Tick-Borne Diseases",
+    "image_file": "week34_thu_lyme.jpg",
+    "content_data": {
+      "topic": "Lyme & Tick-Borne Diseases",
+      "category": "Infectious Disease",
+      "hook": "The great imitator.",
+      "references": [
+        "Horowitz 2017"
+      ]
+    }
+  },
+  {
+    "week": 35,
+    "date": "2026-08-09",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "OPRM1 - Pain/Addiction",
+    "image_file": "week35_sun_oprm1.jpg",
+    "content_data": {
+      "gene": "OPRM1",
+      "full_name": "Opioid Receptor Mu 1",
+      "category": "Pain / Addiction Risk",
+      "hook": "The pain and reward receptor.",
+      "references": [
+        "Crist et al. 2013"
+      ]
+    }
+  },
+  {
+    "week": 35,
+    "date": "2026-08-11",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "L-Ergothioneine",
+    "image_file": "week35_tue_ergothioneine.jpg",
+    "content_data": {
+      "intervention": "L-Ergothioneine",
+      "category": "Longevity Vitamin",
+      "hook": "The proposed longevity vitamin.",
+      "references": [
+        "Halliwell et al. 2018"
+      ]
+    }
+  },
+  {
+    "week": 35,
+    "date": "2026-08-13",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Viral Reactivation",
+    "image_file": "week35_thu_viral_reactivation.jpg",
+    "content_data": {
+      "topic": "Viral Reactivation (EBV, CMV, HSV)",
+      "category": "Infectious / Immune",
+      "hook": "The viruses that never leave.",
+      "references": [
+        "Glaser et al. 2005"
+      ]
+    }
+  },
+  {
+    "week": 36,
+    "date": "2026-08-16",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "CYP3A4 - Pharmacogenomics",
+    "image_file": "week36_sun_cyp3a4.jpg",
+    "content_data": {
+      "gene": "CYP3A4",
+      "full_name": "Cytochrome P450 3A4",
+      "category": "Pharmacogenomics",
+      "hook": "Metabolizes 50% of all drugs.",
+      "references": [
+        "Zanger & Schwab 2013"
+      ]
+    }
+  },
+  {
+    "week": 36,
+    "date": "2026-08-18",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Cold Exposure Protocols",
+    "image_file": "week36_tue_cold_exposure.jpg",
+    "content_data": {
+      "intervention": "Cold Exposure Protocols",
+      "category": "Hormesis / Brown Fat",
+      "hook": "Controlled stress that makes you stronger.",
+      "references": [
+        "Huberman Lab 2022"
+      ]
+    }
+  },
+  {
+    "week": 36,
+    "date": "2026-08-20",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Mold Illness (CIRS)",
+    "image_file": "week36_thu_cirs.jpg",
+    "content_data": {
+      "topic": "Mold Illness (CIRS)",
+      "category": "Environmental Health",
+      "hook": "24% have genes that can't clear mold toxins.",
+      "references": [
+        "Shoemaker 2010"
+      ]
+    }
+  },
+  {
+    "week": 37,
+    "date": "2026-08-23",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "UGT1A1 - Bilirubin/Drug Metabolism",
+    "image_file": "week37_sun_ugt1a1.jpg",
+    "content_data": {
+      "gene": "UGT1A1",
+      "full_name": "UDP-Glucuronosyltransferase 1A1",
+      "category": "Bilirubin / Drug Metabolism",
+      "hook": "The bilirubin conjugation gene. Gilbert's syndrome.",
+      "references": [
+        "Strassburg 2008"
+      ]
+    }
+  },
+  {
+    "week": 37,
+    "date": "2026-08-25",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Sauna / Heat Therapy",
+    "image_file": "week37_tue_sauna.jpg",
+    "content_data": {
+      "intervention": "Sauna / Heat Therapy",
+      "category": "Hormesis / HSPs",
+      "hook": "40% reduction in all-cause mortality.",
+      "references": [
+        "Laukkanen et al. 2015"
+      ]
+    }
+  },
+  {
+    "week": 37,
+    "date": "2026-08-27",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "CV Imaging Beyond CAC",
+    "image_file": "week37_thu_cv_imaging.jpg",
+    "content_data": {
+      "topic": "Cardiovascular Imaging Beyond CAC",
+      "category": "Advanced Diagnostics",
+      "hook": "CAC is just the beginning.",
+      "references": [
+        "Budoff et al. 2018"
+      ]
+    }
+  },
+  {
+    "week": 38,
+    "date": "2026-08-30",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "TPMT - Immunosuppressant Response",
+    "image_file": "week38_sun_tpmt.jpg",
+    "content_data": {
+      "gene": "TPMT",
+      "full_name": "Thiopurine S-Methyltransferase",
+      "category": "Immunosuppressant Response",
+      "hook": "Life-saving pharmacogenomic test.",
+      "references": [
+        "Relling & Klein 2011"
+      ]
+    }
+  },
+  {
+    "week": 38,
+    "date": "2026-09-01",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "PEMF Therapy",
+    "image_file": "week38_tue_pemf.jpg",
+    "content_data": {
+      "intervention": "PEMF Therapy",
+      "category": "Electromagnetic Healing",
+      "hook": "FDA-cleared for bone healing and depression.",
+      "references": [
+        "Markov 2007"
+      ]
+    }
+  },
+  {
+    "week": 38,
+    "date": "2026-09-03",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Cardiac CT Angiography",
+    "image_file": "week38_thu_ccta.jpg",
+    "content_data": {
+      "topic": "Cardiac CT Angiography (CCTA)",
+      "category": "Cardiovascular Imaging",
+      "hook": "See beyond calcium. Detect soft plaque.",
+      "references": [
+        "SCOT-HEART 2018"
+      ]
+    }
+  },
+  {
+    "week": 39,
+    "date": "2026-09-06",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "DPYD - Chemotherapy Toxicity",
+    "image_file": "week39_sun_dpyd.jpg",
+    "content_data": {
+      "gene": "DPYD",
+      "full_name": "Dihydropyrimidine Dehydrogenase",
+      "category": "Chemotherapy Toxicity",
+      "hook": "Potentially fatal pharmacogenomic interaction.",
+      "references": [
+        "Meulendijks et al. 2015"
+      ]
+    }
+  },
+  {
+    "week": 39,
+    "date": "2026-09-08",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "IV NAD+",
+    "image_file": "week39_tue_ivnad.jpg",
+    "content_data": {
+      "intervention": "IV NAD+",
+      "category": "Direct NAD+ Restoration",
+      "hook": "Bypassing oral absorption.",
+      "references": [
+        "Braidy & Liu 2020"
+      ]
+    }
+  },
+  {
+    "week": 39,
+    "date": "2026-09-10",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Carotid Intima-Media Thickness",
+    "image_file": "week39_thu_cimt.jpg",
+    "content_data": {
+      "topic": "Carotid Intima-Media Thickness",
+      "category": "Vascular Assessment",
+      "hook": "Detect early atherosclerosis.",
+      "references": [
+        "Stein et al. 2008"
+      ]
+    }
+  },
+  {
+    "week": 40,
+    "date": "2026-09-13",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "G6PD - Hemolytic Anemia",
+    "image_file": "week40_sun_g6pd.jpg",
+    "content_data": {
+      "gene": "G6PD",
+      "full_name": "Glucose-6-Phosphate Dehydrogenase",
+      "category": "Hemolytic Anemia Risk",
+      "hook": "Most common enzyme deficiency worldwide.",
+      "references": [
+        "Cappellini & Fiorelli 2008"
+      ]
+    }
+  },
+  {
+    "week": 40,
+    "date": "2026-09-15",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Stem Cell Therapy",
+    "image_file": "week40_tue_stemcell.jpg",
+    "content_data": {
+      "intervention": "Stem Cell Therapy",
+      "category": "Regenerative Medicine",
+      "hook": "The frontier of regenerative medicine.",
+      "references": [
+        "Caplan 2017"
+      ]
+    }
+  },
+  {
+    "week": 40,
+    "date": "2026-09-17",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Pulse Wave Velocity",
+    "image_file": "week40_thu_pwv.jpg",
+    "content_data": {
+      "topic": "Pulse Wave Velocity",
+      "category": "Arterial Stiffness",
+      "hook": "Measure your vascular age.",
+      "references": [
+        "Laurent et al. 2006"
+      ]
+    }
+  },
+  {
+    "week": 41,
+    "date": "2026-09-20",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "SERPINA1 - Alpha-1 Antitrypsin",
+    "image_file": "week41_sun_serpina1.jpg",
+    "content_data": {
+      "gene": "SERPINA1",
+      "full_name": "Alpha-1 Antitrypsin",
+      "category": "Lung / Liver Disease",
+      "hook": "Genetic COPD and liver disease.",
+      "references": [
+        "American Thoracic Society 2003"
+      ]
+    }
+  },
+  {
+    "week": 41,
+    "date": "2026-09-22",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "PRP / PRF Therapy",
+    "image_file": "week41_tue_prp.jpg",
+    "content_data": {
+      "intervention": "PRP / PRF Therapy",
+      "category": "Platelet-Rich Plasma",
+      "hook": "Your own blood as medicine.",
+      "references": [
+        "Kon et al. 2011"
+      ]
+    }
+  },
+  {
+    "week": 41,
+    "date": "2026-09-24",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Heart Rate Variability (HRV)",
+    "image_file": "week41_thu_hrv.jpg",
+    "content_data": {
+      "topic": "Heart Rate Variability",
+      "category": "Autonomic Health",
+      "hook": "Window into your nervous system.",
+      "references": [
+        "Shaffer & Ginsberg 2017"
+      ]
+    }
+  },
+  {
+    "week": 42,
+    "date": "2026-09-27",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "CFTR - Cystic Fibrosis",
+    "image_file": "week42_sun_cftr.jpg",
+    "content_data": {
+      "gene": "CFTR",
+      "full_name": "Cystic Fibrosis Transmembrane Conductance Regulator",
+      "category": "Cystic Fibrosis Carrier",
+      "hook": "1 in 25 Caucasians are carriers.",
+      "references": [
+        "Cutting 2015"
+      ]
+    }
+  },
+  {
+    "week": 42,
+    "date": "2026-09-29",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Peptide Bioregulators",
+    "image_file": "week42_tue_bioregulators.jpg",
+    "content_data": {
+      "intervention": "Peptide Bioregulators (Khavinson)",
+      "category": "Tissue-Specific Peptides",
+      "hook": "Russian longevity science.",
+      "references": [
+        "Khavinson 2002"
+      ]
+    }
+  },
+  {
+    "week": 42,
+    "date": "2026-10-01",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "VO2 Max Testing",
+    "image_file": "week42_thu_vo2max.jpg",
+    "content_data": {
+      "topic": "VO2 Max Testing",
+      "category": "Cardiorespiratory Fitness",
+      "hook": "Single best predictor of longevity.",
+      "references": [
+        "Mandsager et al. 2018"
+      ]
+    }
+  },
+  {
+    "week": 43,
+    "date": "2026-10-04",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "HBB - Sickle Cell/Thalassemia",
+    "image_file": "week43_sun_hbb.jpg",
+    "content_data": {
+      "gene": "HBB",
+      "full_name": "Hemoglobin Subunit Beta",
+      "category": "Sickle Cell / Thalassemia",
+      "hook": "Most common genetic disorders worldwide.",
+      "references": [
+        "Kato et al. 2018"
+      ]
+    }
+  },
+  {
+    "week": 43,
+    "date": "2026-10-06",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Testosterone Optimization",
+    "image_file": "week43_tue_testosterone.jpg",
+    "content_data": {
+      "intervention": "Testosterone Optimization",
+      "category": "Hormone Optimization",
+      "hook": "Beyond normal ranges.",
+      "references": [
+        "Bhasin et al. 2018"
+      ]
+    }
+  },
+  {
+    "week": 43,
+    "date": "2026-10-08",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "DEXA Body Composition",
+    "image_file": "week43_thu_dexa.jpg",
+    "content_data": {
+      "topic": "DEXA Body Composition",
+      "category": "Body Composition",
+      "hook": "Beyond the scale.",
+      "references": [
+        "Shepherd et al. 2017"
+      ]
+    }
+  },
+  {
+    "week": 44,
+    "date": "2026-10-11",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "F2 - Prothrombin Thrombophilia",
+    "image_file": "week44_sun_f2.jpg",
+    "content_data": {
+      "gene": "F2",
+      "full_name": "Prothrombin (Coagulation Factor II)",
+      "category": "Thrombophilia",
+      "hook": "3-5x blood clot risk.",
+      "references": [
+        "Kujovich 2011"
+      ]
+    }
+  },
+  {
+    "week": 44,
+    "date": "2026-10-13",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Thyroid Optimization",
+    "image_file": "week44_tue_thyroid.jpg",
+    "content_data": {
+      "intervention": "Thyroid Optimization",
+      "category": "Hormone Optimization",
+      "hook": "The metabolic master.",
+      "references": [
+        "Jonklaas et al. 2014"
+      ]
+    }
+  },
+  {
+    "week": 44,
+    "date": "2026-10-15",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Bone Density & Osteoporosis",
+    "image_file": "week44_thu_bone_density.jpg",
+    "content_data": {
+      "topic": "Bone Density & Osteoporosis",
+      "category": "Skeletal Health",
+      "hook": "The silent disease.",
+      "references": [
+        "Cosman et al. 2014"
+      ]
+    }
+  },
+  {
+    "week": 45,
+    "date": "2026-10-18",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "PAI-1 - Clotting/Metabolic",
+    "image_file": "week45_sun_pai1.jpg",
+    "content_data": {
+      "gene": "PAI-1",
+      "full_name": "Plasminogen Activator Inhibitor 1",
+      "category": "Clotting / Metabolic Syndrome",
+      "hook": "Dual cardiovascular threat.",
+      "references": [
+        "Vaughan 2005"
+      ]
+    }
+  },
+  {
+    "week": 45,
+    "date": "2026-10-20",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "DHEA",
+    "image_file": "week45_tue_dhea.jpg",
+    "content_data": {
+      "intervention": "DHEA",
+      "category": "Hormone Precursor",
+      "hook": "The mother hormone.",
+      "references": [
+        "Rutkowski et al. 2014"
+      ]
+    }
+  },
+  {
+    "week": 45,
+    "date": "2026-10-22",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Muscle Mass & Sarcopenia",
+    "image_file": "week45_thu_sarcopenia.jpg",
+    "content_data": {
+      "topic": "Muscle Mass & Sarcopenia",
+      "category": "Musculoskeletal Health",
+      "hook": "Muscle is the organ of longevity.",
+      "references": [
+        "Cruz-Jentoft et al. 2019"
+      ]
+    }
+  },
+  {
+    "week": 46,
+    "date": "2026-10-25",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "APC - Colon Cancer Risk",
+    "image_file": "week46_sun_apc.jpg",
+    "content_data": {
+      "gene": "APC",
+      "full_name": "Adenomatous Polyposis Coli",
+      "category": "Colon Cancer Risk",
+      "hook": "The colon cancer gatekeeper.",
+      "references": [
+        "Leoz et al. 2015"
+      ]
+    }
+  },
+  {
+    "week": 46,
+    "date": "2026-10-27",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Pregnenolone",
+    "image_file": "week46_tue_pregnenolone.jpg",
+    "content_data": {
+      "intervention": "Pregnenolone",
+      "category": "Neurosteroid / Hormone Precursor",
+      "hook": "The grandmother hormone.",
+      "references": [
+        "Marx et al. 2011"
+      ]
+    }
+  },
+  {
+    "week": 46,
+    "date": "2026-10-29",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Brain MRI & Volumetrics",
+    "image_file": "week46_thu_brain_mri.jpg",
+    "content_data": {
+      "topic": "Brain MRI & Volumetrics",
+      "category": "Neuroimaging",
+      "hook": "See your brain age.",
+      "references": [
+        "Fjell et al. 2014"
+      ]
+    }
+  },
+  {
+    "week": 47,
+    "date": "2026-11-01",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "MLH1 - Lynch Syndrome",
+    "image_file": "week47_sun_mlh1.jpg",
+    "content_data": {
+      "gene": "MLH1",
+      "full_name": "MutL Homolog 1",
+      "category": "Lynch Syndrome / Cancer",
+      "hook": "Most common hereditary cancer syndrome.",
+      "references": [
+        "Lynch et al. 2015"
+      ]
+    }
+  },
+  {
+    "week": 47,
+    "date": "2026-11-03",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "GLP-1 Agonists",
+    "image_file": "week47_tue_glp1.jpg",
+    "content_data": {
+      "intervention": "GLP-1 Agonists (Semaglutide)",
+      "category": "Metabolic / Weight Management",
+      "hook": "The metabolic revolution.",
+      "references": [
+        "Wilding et al. 2021"
+      ]
+    }
+  },
+  {
+    "week": 47,
+    "date": "2026-11-05",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Sleep Study & Architecture",
+    "image_file": "week47_thu_sleep_study.jpg",
+    "content_data": {
+      "topic": "Sleep Study & Sleep Architecture",
+      "category": "Sleep Health",
+      "hook": "The foundation of health.",
+      "references": [
+        "Berry et al. 2017"
+      ]
+    }
+  },
+  {
+    "week": 48,
+    "date": "2026-11-08",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "TP53 - Li-Fraumeni",
+    "image_file": "week48_sun_tp53.jpg",
+    "content_data": {
+      "gene": "TP53",
+      "full_name": "Tumor Protein P53",
+      "category": "Li-Fraumeni Syndrome",
+      "hook": "Guardian of the genome.",
+      "references": [
+        "Malkin 2011"
+      ]
+    }
+  },
+  {
+    "week": 48,
+    "date": "2026-11-10",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Low-Dose Naltrexone (LDN)",
+    "image_file": "week48_tue_ldn.jpg",
+    "content_data": {
+      "intervention": "Low-Dose Naltrexone",
+      "category": "Immune Modulation",
+      "hook": "The immune rebalancer.",
+      "references": [
+        "Younger et al. 2014"
+      ]
+    }
+  },
+  {
+    "week": 48,
+    "date": "2026-11-12",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Continuous Ketone Monitoring",
+    "image_file": "week48_thu_ketone.jpg",
+    "content_data": {
+      "topic": "Continuous Ketone Monitoring",
+      "category": "Metabolic Flexibility",
+      "hook": "Beyond glucose.",
+      "references": [
+        "Newman & Verdin 2017"
+      ]
+    }
+  },
+  {
+    "week": 49,
+    "date": "2026-11-15",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "APOB - Cardiovascular Risk",
+    "image_file": "week49_sun_apob.jpg",
+    "content_data": {
+      "gene": "APOB",
+      "full_name": "Apolipoprotein B",
+      "category": "Cardiovascular Risk",
+      "hook": "The true atherogenic measure.",
+      "references": [
+        "Sniderman et al. 2019"
+      ]
+    }
+  },
+  {
+    "week": 49,
+    "date": "2026-11-17",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Lithium (Microdose)",
+    "image_file": "week49_tue_lithium.jpg",
+    "content_data": {
+      "intervention": "Lithium (Microdose)",
+      "category": "Neuroprotection / Longevity",
+      "hook": "The brain protector.",
+      "references": [
+        "Forlenza et al. 2014"
+      ]
+    }
+  },
+  {
+    "week": 49,
+    "date": "2026-11-19",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Lactate Threshold Testing",
+    "image_file": "week49_thu_lactate.jpg",
+    "content_data": {
+      "topic": "Lactate Threshold Testing",
+      "category": "Exercise Physiology",
+      "hook": "Train smarter, not harder.",
+      "references": [
+        "Faude et al. 2009"
+      ]
+    }
+  },
+  {
+    "week": 50,
+    "date": "2026-11-22",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "LDLR - Familial Hypercholesterolemia",
+    "image_file": "week50_sun_ldlr.jpg",
+    "content_data": {
+      "gene": "LDLR",
+      "full_name": "LDL Receptor",
+      "category": "Familial Hypercholesterolemia",
+      "hook": "Sky-high LDL from birth.",
+      "references": [
+        "Nordestgaard et al. 2013"
+      ]
+    }
+  },
+  {
+    "week": 50,
+    "date": "2026-11-24",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Fucoidan / SIRT6 Activators",
+    "image_file": "week50_tue_fucoidan.jpg",
+    "content_data": {
+      "intervention": "Fucoidan / SIRT6 Activators",
+      "category": "Longevity / DNA Repair",
+      "hook": "The DNA repair amplifier.",
+      "references": [
+        "Kanfi et al. 2012"
+      ]
+    }
+  },
+  {
+    "week": 50,
+    "date": "2026-11-26",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Nutrient Status Testing",
+    "image_file": "week50_thu_nutrient.jpg",
+    "content_data": {
+      "topic": "Nutrient Status Testing",
+      "category": "Nutritional Assessment",
+      "hook": "Measure to optimize.",
+      "references": [
+        "Heaney 2014"
+      ]
+    }
+  },
+  {
+    "week": 51,
+    "date": "2026-11-29",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "KLOTHO - Longevity Gene",
+    "image_file": "week51_sun_klotho.jpg",
+    "content_data": {
+      "gene": "KLOTHO",
+      "full_name": "Klotho",
+      "category": "Longevity / Aging",
+      "hook": "The longevity gene.",
+      "references": [
+        "Kurosu et al. 2005"
+      ]
+    }
+  },
+  {
+    "week": 51,
+    "date": "2026-12-01",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Akkermansia Supplementation",
+    "image_file": "week51_tue_akkermansia.jpg",
+    "content_data": {
+      "intervention": "Akkermansia Supplementation",
+      "category": "Microbiome / Metabolic",
+      "hook": "The next-gen probiotic.",
+      "references": [
+        "Depommier et al. 2019"
+      ]
+    }
+  },
+  {
+    "week": 51,
+    "date": "2026-12-03",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Pharmacogenomics Panel",
+    "image_file": "week51_thu_pgx.jpg",
+    "content_data": {
+      "topic": "Pharmacogenomics Panel",
+      "category": "Personalized Medicine",
+      "hook": "Right drug, right dose.",
+      "references": [
+        "Relling & Evans 2015"
+      ]
+    }
+  },
+  {
+    "week": 52,
+    "date": "2026-12-06",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "SIRT1 - Longevity Gene",
+    "image_file": "week52_sun_sirt1.jpg",
+    "content_data": {
+      "gene": "SIRT1",
+      "full_name": "Sirtuin 1",
+      "category": "Longevity / Metabolism",
+      "hook": "The CR mimetic.",
+      "references": [
+        "Haigis & Sinclair 2010"
+      ]
+    }
+  },
+  {
+    "week": 52,
+    "date": "2026-12-08",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "FMT / Microbiome Restoration",
+    "image_file": "week52_tue_fmt.jpg",
+    "content_data": {
+      "intervention": "FMT / Microbiome Restoration",
+      "category": "Gut Health",
+      "hook": "The ultimate reset.",
+      "references": [
+        "van Nood et al. 2013"
+      ]
+    }
+  },
+  {
+    "week": 52,
+    "date": "2026-12-10",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Polygenic Risk Scores",
+    "image_file": "week52_thu_prs.jpg",
+    "content_data": {
+      "topic": "Polygenic Risk Scores",
+      "category": "Genetic Risk Assessment",
+      "hook": "Beyond single genes.",
+      "references": [
+        "Khera et al. 2018"
+      ]
+    }
+  }
+]

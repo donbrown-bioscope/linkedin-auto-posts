@@ -1,0 +1,37 @@
+🧬 GENE OF THE WEEK: LPA (Lipoprotein(a))
+
+The "stealth" cardiovascular risk factor. 20% of people have elevated Lp(a)—and most don't know it. It's genetic, it doesn't respond to lifestyle, and it's rarely tested.
+
+Lp(a) is an LDL-like particle with an extra protein called apolipoprotein(a) attached. Your level is 90% genetically determined by the LPA gene.
+
+Lp(a) Levels & Risk (nmol/L):
+
+🟢 <75: Desirable
+🟡 75-125: Borderline risk
+🟠 125-250: High risk
+🔴 >250: Very high risk
+
+Why Lp(a) Matters:
+
+→ Independent risk factor for heart attack, stroke, aortic stenosis
+→ 90% genetically determined — diet and exercise don't lower it
+→ Structurally similar to LDL but MORE atherogenic
+→ Promotes clotting (mimics plasminogen)
+→ Most physicians never test it
+
+The Unique Challenge:
+
+→ Statins don't lower Lp(a) (may even raise it slightly)
+→ Diet doesn't affect it
+→ Exercise doesn't affect it
+→ Niacin lowers it 20-30% (one of few options)
+→ PCSK9 inhibitors lower it ~25%
+→ New antisense drugs (under development) reduce Lp(a) by 80%+
+
+One test in your lifetime tells you your genetic level. If elevated, you need aggressive management of all OTHER modifiable risk factors.
+
+👨‍⚕️ Physicians: Why aren't you using Bioscope.AI to offer true AI-powered precision medicine?
+
+🧑 Patients: Why isn't your physician using Bioscope.AI to maximize your healthy longevity?
+
+#GeneOfTheWeek #Lpa #CardiovascularRisk #HeartHealth #GeneticTesting #Bioscope
