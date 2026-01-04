@@ -139,29 +139,31 @@ def get_person_urn(access_token: str) -> str:
 def upload_image_to_linkedin(image_path: Path, access_token: str, person_urn: str) -> str:
     """
     Upload an image to LinkedIn and return the asset URN.
-    
-    LinkedIn image upload is a 2-step process:
-    1. Register the upload and get an upload URL
-    2. Upload the binary image data
+    Uses the v2 assets API which works with Share on LinkedIn product.
     """
     headers = {
         "Authorization": f"Bearer {access_token}",
         "Content-Type": "application/json",
-        "X-Restli-Protocol-Version": "2.0.0",
-        "LinkedIn-Version": "202401"
     }
     
-    # Step 1: Register the upload using the images API
+    # Step 1: Register the upload
     register_payload = {
-        "initializeUploadRequest": {
-            "owner": person_urn
+        "registerUploadRequest": {
+            "recipes": ["urn:li:digitalmediaRecipe:feedshare-image"],
+            "owner": person_urn,
+            "serviceRelationships": [
+                {
+                    "relationshipType": "OWNER",
+                    "identifier": "urn:li:userGeneratedContent"
+                }
+            ]
         }
     }
     
     logger.info("Registering image upload with LinkedIn...")
     
     register_response = requests.post(
-        "https://api.linkedin.com/rest/images?action=initializeUpload",
+        "https://api.linkedin.com/v2/assets?action=registerUpload",
         headers=headers,
         json=register_payload
     )
@@ -171,8 +173,8 @@ def upload_image_to_linkedin(image_path: Path, access_token: str, person_urn: st
         raise Exception(f"LinkedIn upload registration failed: {register_response.status_code}")
     
     register_data = register_response.json()
-    upload_url = register_data["value"]["uploadUrl"]
-    image_urn = register_data["value"]["image"]
+    upload_url = register_data["value"]["uploadMechanism"]["com.linkedin.digitalmedia.uploading.MediaUploadHttpRequest"]["uploadUrl"]
+    asset_urn = register_data["value"]["asset"]
     
     # Step 2: Upload the image binary
     logger.info(f"Uploading image: {image_path}")
@@ -194,44 +196,49 @@ def upload_image_to_linkedin(image_path: Path, access_token: str, person_urn: st
         logger.error(f"Failed to upload image: {upload_response.text}")
         raise Exception(f"LinkedIn image upload failed: {upload_response.status_code}")
     
-    logger.info(f"Image uploaded successfully. Image URN: {image_urn}")
-    return image_urn
+    logger.info(f"Image uploaded successfully. Asset URN: {asset_urn}")
+    return asset_urn
 
 
 def create_linkedin_post(text: str, image_urn: str, access_token: str, person_urn: str) -> dict:
     """
-    Create a LinkedIn post with text and image using the Posts API.
+    Create a LinkedIn post with text and image using UGC Posts API.
     """
     headers = {
         "Authorization": f"Bearer {access_token}",
         "Content-Type": "application/json",
         "X-Restli-Protocol-Version": "2.0.0",
-        "LinkedIn-Version": "202401"
     }
     
     post_payload = {
         "author": person_urn,
-        "commentary": text,
-        "visibility": "PUBLIC",
-        "distribution": {
-            "feedDistribution": "MAIN_FEED",
-            "targetEntities": [],
-            "thirdPartyDistributionChannels": []
-        },
-        "content": {
-            "media": {
-                "title": "Bioscope.AI",
-                "id": image_urn
+        "lifecycleState": "PUBLISHED",
+        "specificContent": {
+            "com.linkedin.ugc.ShareContent": {
+                "shareCommentary": {
+                    "text": text
+                },
+                "shareMediaCategory": "IMAGE",
+                "media": [
+                    {
+                        "status": "READY",
+                        "media": image_urn,
+                        "title": {
+                            "text": "Bioscope.AI"
+                        }
+                    }
+                ]
             }
         },
-        "lifecycleState": "PUBLISHED",
-        "isReshareDisabledByAuthor": False
+        "visibility": {
+            "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+        }
     }
     
     logger.info("Creating LinkedIn post...")
     
     response = requests.post(
-        "https://api.linkedin.com/rest/posts",
+        "https://api.linkedin.com/v2/ugcPosts",
         headers=headers,
         json=post_payload
     )
@@ -336,7 +343,7 @@ def main():
         person_urn = get_person_urn(config.LINKEDIN_ACCESS_TOKEN)
         
         # Upload image
-        image_urn = upload_image_to_linkedin(
+        asset_urn = upload_image_to_linkedin(
             image_path,
             config.LINKEDIN_ACCESS_TOKEN,
             person_urn
@@ -345,7 +352,7 @@ def main():
         # Create post
         result = create_linkedin_post(
             post_text,
-            image_urn,
+            asset_urn,
             config.LINKEDIN_ACCESS_TOKEN,
             person_urn
         )
