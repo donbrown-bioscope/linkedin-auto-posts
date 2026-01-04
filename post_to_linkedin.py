@@ -103,13 +103,13 @@ Remember to:
 
 
 def get_person_urn(access_token: str) -> str:
-    """Get the authenticated user's LinkedIn person URN."""
+    """Get the authenticated user's LinkedIn member URN."""
     
     # If LINKEDIN_PERSON_ID is set, use it directly (skip API call)
     person_id = os.environ.get("LINKEDIN_PERSON_ID")
     if person_id:
         logger.info(f"Using provided person ID: {person_id}")
-        return f"urn:li:person:{person_id}"
+        return f"urn:li:member:{person_id}"
     
     # Otherwise try to fetch it from API
     headers = {
@@ -133,7 +133,7 @@ def get_person_urn(access_token: str) -> str:
     last_name = data.get("localizedLastName", "")
     logger.info(f"Authenticated as: {first_name} {last_name}")
     
-    return f"urn:li:person:{person_id}"
+    return f"urn:li:member:{person_id}"
 
 
 def upload_image_to_linkedin(image_path: Path, access_token: str, person_urn: str) -> str:
