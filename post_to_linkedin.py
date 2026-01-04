@@ -108,8 +108,9 @@ def get_person_urn(access_token: str) -> str:
         "Authorization": f"Bearer {access_token}",
     }
     
+    # Use the /v2/me endpoint which works with w_member_social scope
     response = requests.get(
-        "https://api.linkedin.com/v2/userinfo",
+        "https://api.linkedin.com/v2/me",
         headers=headers
     )
     
@@ -118,8 +119,10 @@ def get_person_urn(access_token: str) -> str:
         raise Exception(f"Failed to get LinkedIn user info: {response.status_code}")
     
     data = response.json()
-    person_id = data.get("sub")  # 'sub' contains the person ID
-    logger.info(f"Authenticated as: {data.get('name', 'Unknown')}")
+    person_id = data.get("id")
+    first_name = data.get("localizedFirstName", "Unknown")
+    last_name = data.get("localizedLastName", "")
+    logger.info(f"Authenticated as: {first_name} {last_name}")
     
     return f"urn:li:person:{person_id}"
 
