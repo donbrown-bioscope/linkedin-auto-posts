@@ -104,11 +104,19 @@ Remember to:
 
 def get_person_urn(access_token: str) -> str:
     """Get the authenticated user's LinkedIn person URN."""
+    
+    # If LINKEDIN_PERSON_ID is set, use it directly (skip API call)
+    person_id = os.environ.get("LINKEDIN_PERSON_ID")
+    if person_id:
+        logger.info(f"Using provided person ID: {person_id}")
+        return f"urn:li:person:{person_id}"
+    
+    # Otherwise try to fetch it from API
     headers = {
         "Authorization": f"Bearer {access_token}",
     }
     
-    # Use the /v2/me endpoint which works with w_member_social scope
+    # Use the /v2/me endpoint which works with r_liteprofile scope
     response = requests.get(
         "https://api.linkedin.com/v2/me",
         headers=headers
@@ -116,6 +124,7 @@ def get_person_urn(access_token: str) -> str:
     
     if response.status_code != 200:
         logger.error(f"Failed to get user info: {response.text}")
+        logger.error("Set LINKEDIN_PERSON_ID environment variable to skip this API call")
         raise Exception(f"Failed to get LinkedIn user info: {response.status_code}")
     
     data = response.json()

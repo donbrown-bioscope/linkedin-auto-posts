@@ -30,7 +30,7 @@ CLIENT_ID = os.environ.get("LINKEDIN_CLIENT_ID", "")
 CLIENT_SECRET = os.environ.get("LINKEDIN_CLIENT_SECRET", "")
 REDIRECT_URI = "http://localhost:8000/callback"
 # Scopes for posting to personal profile
-SCOPES = ["w_member_social"]
+SCOPES = ["w_member_social", "r_liteprofile"]
 
 # Global to store the auth code
 auth_code = None
