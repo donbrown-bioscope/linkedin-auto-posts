@@ -103,14 +103,13 @@ Remember to:
 
 
 def get_person_urn(access_token: str) -> str:
-    """Get the authenticated user's LinkedIn member URN."""
+    """Get the LinkedIn organization URN for posting."""
     
-    # If LINKEDIN_PERSON_ID is set, use it directly (skip API call)
-    person_id = os.environ.get("LINKEDIN_PERSON_ID")
-    if person_id:
-        logger.info(f"Using provided person ID: {person_id}")
-        # Try the format that matches the regex: urn:li:member:\d+
-        return f"urn:li:member:{person_id}"
+    # If LINKEDIN_PERSON_ID is set, use it as organization ID
+    org_id = os.environ.get("LINKEDIN_PERSON_ID")
+    if org_id:
+        logger.info(f"Using organization ID: {org_id}")
+        return f"urn:li:organization:{org_id}"
     
     raise Exception("LINKEDIN_PERSON_ID environment variable must be set")
 
