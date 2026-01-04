@@ -109,31 +109,10 @@ def get_person_urn(access_token: str) -> str:
     person_id = os.environ.get("LINKEDIN_PERSON_ID")
     if person_id:
         logger.info(f"Using provided person ID: {person_id}")
+        # Try the format that matches the regex: urn:li:member:\d+
         return f"urn:li:member:{person_id}"
     
-    # Otherwise try to fetch it from API
-    headers = {
-        "Authorization": f"Bearer {access_token}",
-    }
-    
-    # Use the /v2/me endpoint which works with r_liteprofile scope
-    response = requests.get(
-        "https://api.linkedin.com/v2/me",
-        headers=headers
-    )
-    
-    if response.status_code != 200:
-        logger.error(f"Failed to get user info: {response.text}")
-        logger.error("Set LINKEDIN_PERSON_ID environment variable to skip this API call")
-        raise Exception(f"Failed to get LinkedIn user info: {response.status_code}")
-    
-    data = response.json()
-    person_id = data.get("id")
-    first_name = data.get("localizedFirstName", "Unknown")
-    last_name = data.get("localizedLastName", "")
-    logger.info(f"Authenticated as: {first_name} {last_name}")
-    
-    return f"urn:li:person:{person_id}"
+    raise Exception("LINKEDIN_PERSON_ID environment variable must be set")
 
 
 def upload_image_to_linkedin(image_path: Path, access_token: str, person_urn: str) -> str:
@@ -202,43 +181,36 @@ def upload_image_to_linkedin(image_path: Path, access_token: str, person_urn: st
 
 def create_linkedin_post(text: str, image_urn: str, access_token: str, person_urn: str) -> dict:
     """
-    Create a LinkedIn post with text and image using UGC Posts API.
+    Create a LinkedIn post with text and image using shares API.
     """
     headers = {
         "Authorization": f"Bearer {access_token}",
         "Content-Type": "application/json",
-        "X-Restli-Protocol-Version": "2.0.0",
     }
     
+    # Try the simpler shares API
     post_payload = {
-        "author": person_urn,
-        "lifecycleState": "PUBLISHED",
-        "specificContent": {
-            "com.linkedin.ugc.ShareContent": {
-                "shareCommentary": {
-                    "text": text
-                },
-                "shareMediaCategory": "IMAGE",
-                "media": [
-                    {
-                        "status": "READY",
-                        "media": image_urn,
-                        "title": {
-                            "text": "Bioscope.AI"
-                        }
-                    }
-                ]
-            }
+        "owner": person_urn,
+        "text": {
+            "text": text
         },
-        "visibility": {
-            "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+        "content": {
+            "contentEntities": [
+                {
+                    "entity": image_urn
+                }
+            ],
+            "shareMediaCategory": "IMAGE"
+        },
+        "distribution": {
+            "linkedInDistributionTarget": {}
         }
     }
     
     logger.info("Creating LinkedIn post...")
     
     response = requests.post(
-        "https://api.linkedin.com/v2/ugcPosts",
+        "https://api.linkedin.com/v2/shares",
         headers=headers,
         json=post_payload
     )
