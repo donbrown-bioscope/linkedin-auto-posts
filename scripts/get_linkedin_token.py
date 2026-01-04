@@ -30,7 +30,7 @@ CLIENT_ID = os.environ.get("LINKEDIN_CLIENT_ID", "")
 CLIENT_SECRET = os.environ.get("LINKEDIN_CLIENT_SECRET", "")
 REDIRECT_URI = "http://localhost:8000/callback"
 # Scopes for posting to personal profile
-SCOPES = ["w_member_social", "r_liteprofile"]
+SCOPES = ["w_organization_social"]
 
 # Global to store the auth code
 auth_code = None
@@ -51,7 +51,7 @@ def get_authorization_url():
 def exchange_code_for_token(code: str) -> dict:
     """Exchange authorization code for access token."""
     token_url = "https://www.linkedin.com/oauth/v2/accessToken"
-    
+
     data = {
         "grant_type": "authorization_code",
         "code": code,
@@ -59,13 +59,13 @@ def exchange_code_for_token(code: str) -> dict:
         "client_id": CLIENT_ID,
         "client_secret": CLIENT_SECRET
     }
-    
+
     response = requests.post(token_url, data=data)
-    
+
     if response.status_code != 200:
         print(f"Error: {response.text}")
         return None
-    
+
     return response.json()
 
 
@@ -82,16 +82,16 @@ def get_organization_info(access_token: str) -> list:
         "Authorization": f"Bearer {access_token}",
         "X-Restli-Protocol-Version": "2.0.0"
     }
-    
+
     # Get organization access control
     response = requests.get(
         "https://api.linkedin.com/v2/organizationAcls?q=roleAssignee",
         headers=headers
     )
-    
+
     if response.status_code != 200:
         return []
-    
+
     return response.json().get("elements", [])
 
 
@@ -99,13 +99,13 @@ def get_organization_info(access_token: str) -> list:
 def callback():
     """Handle the OAuth callback from LinkedIn."""
     global auth_code
-    
+
     error = request.args.get("error")
     if error:
         return f"Error: {error} - {request.args.get('error_description', '')}"
-    
+
     auth_code = request.args.get("code")
-    
+
     return """
     <html>
         <body>
@@ -119,70 +119,70 @@ def callback():
 
 def main():
     global CLIENT_ID, CLIENT_SECRET
-    
+
     print("=" * 60)
     print("LinkedIn OAuth Token Generator for Bioscope.AI")
     print("=" * 60)
     print()
-    
+
     # Get credentials if not set
     if not CLIENT_ID:
         CLIENT_ID = input("Enter your LinkedIn Client ID: ").strip()
     if not CLIENT_SECRET:
         CLIENT_SECRET = input("Enter your LinkedIn Client Secret: ").strip()
-    
+
     if not CLIENT_ID or not CLIENT_SECRET:
         print("Error: Client ID and Secret are required")
         return
-    
+
     print()
     print("Opening browser for LinkedIn authorization...")
     print("(If browser doesn't open, copy this URL manually)")
     print()
-    
+
     auth_url = get_authorization_url()
     print(auth_url)
     print()
-    
+
     # Open browser
     webbrowser.open(auth_url)
-    
+
     # Start local server to receive callback
     print("Waiting for authorization callback...")
     print("(Local server running on http://localhost:8000)")
     print()
-    
+
     # Run Flask server briefly to catch the callback
     import threading
     import time
-    
+
     server_thread = threading.Thread(target=lambda: app.run(port=8000, debug=False, use_reloader=False))
     server_thread.daemon = True
     server_thread.start()
-    
+
     # Wait for auth code
     timeout = 120  # 2 minutes
     start = time.time()
     while auth_code is None and (time.time() - start) < timeout:
         time.sleep(1)
-    
+
     if auth_code is None:
         print("Timeout waiting for authorization")
         return
-    
+
     print("Received authorization code!")
     print("Exchanging for access token...")
     print()
-    
+
     token_data = exchange_code_for_token(auth_code)
-    
+
     if not token_data:
         print("Failed to get access token")
         return
-    
+
     access_token = token_data.get("access_token")
     expires_in = token_data.get("expires_in", 0)
-    
+
     print("=" * 60)
     print("SUCCESS! Here are your credentials:")
     print("=" * 60)
@@ -192,18 +192,18 @@ def main():
     print()
     print(f"Token expires in: {expires_in // 86400} days")
     print()
-    
+
     # Get user info
     user_info = get_user_info(access_token)
     if user_info:
         print(f"Authenticated as: {user_info.get('name', 'Unknown')}")
         print(f"Email: {user_info.get('email', 'Unknown')}")
         print()
-    
+
     # Get organization info
     print("Checking organization access...")
     orgs = get_organization_info(access_token)
-    
+
     if orgs:
         print()
         print("Organizations you can post to:")
@@ -217,7 +217,7 @@ def main():
     else:
         print("No organization access found.")
         print("Make sure your LinkedIn app has organization posting permissions.")
-    
+
     print()
     print("=" * 60)
     print("Next steps:")

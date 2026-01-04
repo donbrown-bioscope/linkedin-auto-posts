@@ -265,5 +265,230 @@
       ],
       "references": ["Reaven 1988 Diabetes", "Matthews et al. 1985 Diabetologia (HOMA)"]
     }
+  },
+  {
+    "week": 5,
+    "date": "2026-01-11",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "CYP2D6 - The Drug Metabolizer",
+    "image_file": "week5_sun_cyp2d6.jpg",
+    "content_data": {
+      "gene": "CYP2D6",
+      "full_name": "Cytochrome P450 2D6",
+      "category": "Pharmacogenomics",
+      "hook": "This single gene metabolizes 25% of all prescription drugs. Your variant determines if a standard dose is perfect, useless, or dangerous.",
+      "metabolizer_types": [
+        {"type": "Ultra-Rapid", "frequency": "1-10%", "effect": "Burns through drugs too fast. Standard doses may fail."},
+        {"type": "Extensive", "frequency": "~70%", "effect": "Normal metabolism. Standard dosing works."},
+        {"type": "Intermediate", "frequency": "10-15%", "effect": "Slower processing. May need dose reduction."},
+        {"type": "Poor", "frequency": "5-10%", "effect": "Drug accumulates. High toxicity risk."}
+      ],
+      "drugs_affected": ["Codeine", "Tramadol", "Tamoxifen", "SSRIs", "Beta Blockers", "Antipsychotics"],
+      "references": ["Crews et al. 2014 Clinical Pharmacology & Therapeutics"]
+    }
+  },
+  {
+    "week": 5,
+    "date": "2026-01-13",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Sleep Peptides - Epitalon & DSIP",
+    "image_file": "week5_tue_sleep_peptides.jpg",
+    "content_data": {
+      "intervention": "Epitalon & DSIP",
+      "category": "Peptides - Sleep & Recovery",
+      "hook": "Your pineal gland shrinks with age. Melatonin production drops. These peptides don't just help sleep—they restore the machinery that makes it.",
+      "peptides": [
+        {"name": "Epitalon", "mechanism": "Pineal gland peptide bioregulator", "benefits": ["Reactivates pineal melatonin production", "Telomerase activation", "Circadian rhythm restoration"]},
+        {"name": "DSIP", "mechanism": "Delta Sleep-Inducing Peptide", "benefits": ["Enhances slow-wave deep sleep", "Reduces sleep latency", "Stress hormone regulation"]}
+      ],
+      "references": ["Khavinson et al. 2003 Neuroendocrinology Letters"]
+    }
+  },
+  {
+    "week": 5,
+    "date": "2026-01-15",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "The Gut-Brain Connection",
+    "image_file": "week5_thu_gutbrain.jpg",
+    "content_data": {
+      "topic": "Microbiome-Brain Axis",
+      "category": "Gut-Brain Health",
+      "hook": "Your gut makes 90% of your serotonin. Depression, anxiety, and brain fog may start in your intestines—not your head.",
+      "key_stats": ["90% of serotonin made in gut", "70% of immune cells in gut", "500 million neurons in enteric system"],
+      "pathways": ["Vagus Nerve", "Neurotransmitters", "Inflammation", "Immune System"],
+      "references": ["Cryan & Dinan 2012 Nature Reviews Neuroscience"]
+    }
+  },
+  {
+    "week": 6,
+    "date": "2026-01-18",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "FOXO3 - The Longevity Gene",
+    "image_file": "week6_sun_foxo3.jpg",
+    "content_data": {
+      "gene": "FOXO3",
+      "full_name": "Forkhead Box O3",
+      "category": "Longevity",
+      "hook": "The only gene consistently linked to longevity across multiple human populations. Centenarians are 2.7x more likely to carry the protective variant.",
+      "genotypes": [
+        {"variant": "G Allele (Protective)", "frequency": "25-30%", "effect": "Enhanced stress resistance, autophagy, and DNA repair"},
+        {"variant": "T Allele (Common)", "frequency": "70-75%", "effect": "Standard FOXO3 activity levels"}
+      ],
+      "functions": ["Autophagy", "Oxidative Defense", "DNA Repair", "Metabolism"],
+      "references": ["Willcox et al. 2008 PNAS", "Flachsbart et al. 2009 PNAS"]
+    }
+  },
+  {
+    "week": 6,
+    "date": "2026-01-20",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Exosome Therapy",
+    "image_file": "week6_tue_exosomes.jpg",
+    "content_data": {
+      "intervention": "Exosomes",
+      "category": "Regenerative Medicine",
+      "hook": "Stem cells work largely by what they secrete, not what they become. Exosomes deliver the regenerative signals—without the cells.",
+      "mechanism": "30-150nm vesicles carrying proteins, lipids, and RNA that transfer regenerative instructions between cells",
+      "cargo": ["mRNA", "miRNA", "Proteins", "Growth Factors"],
+      "applications": ["Joint & Tissue repair", "Skin & Hair rejuvenation", "Neurological support"],
+      "references": ["Rani et al. 2015 Molecular Therapy"]
+    }
+  },
+  {
+    "week": 6,
+    "date": "2026-01-22",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Hormesis - Stress That Strengthens",
+    "image_file": "week6_thu_hormesis.jpg",
+    "content_data": {
+      "topic": "Hormesis",
+      "category": "Longevity Science",
+      "hook": "What doesn't kill you literally makes you stronger—if the dose is right. Small stresses trigger adaptive responses that leave you more resilient.",
+      "stressors": [
+        {"type": "Cold", "benefit": "Brown fat, norepinephrine"},
+        {"type": "Heat", "benefit": "HSPs, growth hormone"},
+        {"type": "Fasting", "benefit": "Autophagy, ketones"},
+        {"type": "Exercise", "benefit": "Mitochondria, BDNF"},
+        {"type": "Phytochemicals", "benefit": "Nrf2 activation"}
+      ],
+      "references": ["Calabrese & Baldwin 2002 Human & Experimental Toxicology"]
+    }
+  },
+  {
+    "week": 7,
+    "date": "2026-01-25",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "Factor V Leiden - The Clotting Gene",
+    "image_file": "week7_sun_f5.jpg",
+    "content_data": {
+      "gene": "F5",
+      "full_name": "Factor V Leiden (R506Q)",
+      "category": "Thrombophilia / Clotting",
+      "hook": "The most common inherited clotting disorder. 5% of Caucasians carry it—most don't know until their first blood clot.",
+      "genotypes": [
+        {"variant": "No Mutation", "frequency": "~95%", "risk": "1x baseline"},
+        {"variant": "Heterozygous", "frequency": "~5%", "risk": "5-7x DVT/PE risk"},
+        {"variant": "Homozygous", "frequency": "~0.02%", "risk": "50-80x DVT/PE risk"}
+      ],
+      "risk_amplifiers": ["Oral Contraceptives (35x with FVL)", "Surgery", "Long Flights", "Pregnancy", "Smoking"],
+      "references": ["Kujovich 2011 Genetics in Medicine"]
+    }
+  },
+  {
+    "week": 7,
+    "date": "2026-01-27",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "GH Secretagogue Peptides",
+    "image_file": "week7_tue_gh_peptides.jpg",
+    "content_data": {
+      "intervention": "CJC-1295 & Ipamorelin",
+      "category": "Peptides - Hormone Optimization",
+      "hook": "Growth hormone declines 14% per decade after 30. These peptides don't add synthetic GH—they stimulate your pituitary to make more of your own.",
+      "peptides": [
+        {"name": "CJC-1295", "type": "GHRH analog", "benefits": ["Sustained GH elevation", "Preserves pulsatile release", "Once-weekly dosing possible"]},
+        {"name": "Ipamorelin", "type": "Ghrelin receptor agonist", "benefits": ["Acute GH pulse", "No cortisol/prolactin increase", "Best safety profile"]}
+      ],
+      "benefits": ["Lean mass", "Fat loss", "Deep sleep", "Recovery"],
+      "references": ["Teichman et al. 2006 Journal of Clinical Endocrinology & Metabolism"]
+    }
+  },
+  {
+    "week": 7,
+    "date": "2026-01-29",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "Multi-Cancer Early Detection (MCED)",
+    "image_file": "week7_thu_mced.jpg",
+    "content_data": {
+      "topic": "Multi-Cancer Early Detection",
+      "category": "Cancer Screening",
+      "hook": "Standard screening catches 5 cancer types. MCED blood tests can detect signals from 50+ cancers—including pancreatic, ovarian, and others we've never screened for.",
+      "how_it_works": ["Blood draw", "cfDNA analysis", "Methylation patterns", "Cancer signal origin prediction"],
+      "key_stats": ["50+ cancer types detected", "83% Stage I-III detection", "0.5% false positive rate"],
+      "references": ["Klein et al. 2021 Annals of Oncology (PATHFINDER)"]
+    }
+  },
+  {
+    "week": 8,
+    "date": "2026-02-01",
+    "post_type": "gene",
+    "day": "sunday",
+    "title": "BDNF - The Neuroplasticity Gene",
+    "image_file": "week8_sun_bdnf.jpg",
+    "content_data": {
+      "gene": "BDNF",
+      "full_name": "Brain-Derived Neurotrophic Factor",
+      "category": "Neuroplasticity",
+      "hook": "The brain's 'Miracle-Gro'—essential for growing new neurons, forming memories, and learning. The Val66Met variant affects 30% of people.",
+      "genotypes": [
+        {"variant": "Val/Val (G/G)", "frequency": "60-70%", "traits": "Normal BDNF secretion, efficient memory formation"},
+        {"variant": "Val/Met or Met/Met", "frequency": "30-40%", "traits": "Reduced activity-dependent BDNF, benefits MORE from boosting activities"}
+      ],
+      "boosters": ["Aerobic Exercise", "Deep Sleep", "Sunlight", "Intermittent Fasting", "Meditation"],
+      "references": ["Egan et al. 2003 Cell"]
+    }
+  },
+  {
+    "week": 8,
+    "date": "2026-02-03",
+    "post_type": "intervention",
+    "day": "tuesday",
+    "title": "Anti-Inflammatory Peptides",
+    "image_file": "week8_tue_antiinflam_peptides.jpg",
+    "content_data": {
+      "intervention": "Thymosin Alpha-1 & KPV",
+      "category": "Peptides - Immune Modulation",
+      "hook": "Chronic inflammation drives aging and disease. These peptides modulate the immune response—calming overactivity without suppressing defense.",
+      "peptides": [
+        {"name": "Thymosin Alpha-1", "mechanism": "Thymic peptide", "benefits": ["Rebalances Th1/Th2", "Enhances T-cell function", "FDA-approved in 30+ countries"]},
+        {"name": "KPV", "mechanism": "Alpha-MSH fragment", "benefits": ["NF-κB inhibition", "Reduces TNF-α, IL-6", "Gut healing"]}
+      ],
+      "references": ["Garaci 2007 Annals of the New York Academy of Sciences"]
+    }
+  },
+  {
+    "week": 8,
+    "date": "2026-02-05",
+    "post_type": "topic",
+    "day": "thursday",
+    "title": "DNA Repair Capacity",
+    "image_file": "week8_thu_dna_repair.jpg",
+    "content_data": {
+      "topic": "DNA Repair Capacity",
+      "category": "Cellular Maintenance",
+      "hook": "Your DNA sustains 100,000+ damaging events daily. Aging isn't just accumulated damage—it's declining repair capacity.",
+      "daily_damage": ["100K+ DNA lesions per cell/day", "50 double-strand breaks/day", "10K oxidative modifications"],
+      "repair_pathways": ["BER (Base Excision)", "NER (Nucleotide Excision)", "HR/NHEJ (Double-Strand)", "MMR (Mismatch)"],
+      "enhancers": ["NAD+ (PARP activation)", "Sulforaphane (Nrf2)", "Fasting (SIRT1/6)", "Exercise", "Sleep", "Spermidine"],
+      "references": ["Hoeijmakers 2009 NEJM"]
+    }
   }
 ]
